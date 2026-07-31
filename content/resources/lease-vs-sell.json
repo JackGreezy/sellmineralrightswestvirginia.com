@@ -1,0 +1,67 @@
+{
+ "slug": "lease-vs-sell",
+ "title": "Lease vs. Sell: Which Is Right?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Lease vs. Sell Your West Virginia Minerals",
+ "metaDescription": "How to weigh leasing against selling your West Virginia mineral rights, including the flat-rate lease trap many older owners are still sitting under.",
+ "heroLead": "Leasing and selling are not opposites so much as two different bets on the same well, and which one fits depends heavily on what your title records already show.",
+ "intro": [
+  "Every West Virginia mineral owner eventually faces some version of this question, whether it arrives as an unsolicited lease offer in the mail or as a call about an interest that has been sitting dormant for a generation. Leasing keeps you in the position of a royalty owner, tied to whatever a well does over its producing life. Selling converts that uncertain future into a single transaction now. Neither is automatically better, and the right answer usually depends on the specifics of your ownership.",
+  "This guide walks through the tradeoffs, with particular attention to a situation that comes up constantly in West Virginia title work: owners still sitting under an old flat-rate lease that pays a fixed annual sum rather than a share of production."
+ ],
+ "sections": [
+  {
+   "heading": "What leasing actually commits you to",
+   "paragraphs": [
+    "A new lease typically pays an upfront bonus per net mineral acre plus a royalty share of future production, often for a primary term of a few years that extends automatically as long as the well produces. Once signed, you are committed for the life of that lease and any well drilled under it, and your income going forward tracks production, which can decline significantly after the first few years of a well's life. Leasing suits owners who want to retain long-term ownership and are comfortable with income that varies year to year.",
+    "It also means staying engaged with the paperwork over time: division orders, royalty statements, occasional pooling or unitization notices, and in some cases negotiating a new lease again once the old one expires or is held by production."
+   ]
+  },
+  {
+   "heading": "The flat-rate lease problem specifically",
+   "paragraphs": [
+    "West Virginia has a large number of older leases, some dating back decades, that pay a flat annual amount rather than a percentage of production, regardless of how much gas the well actually produces. These flat-rate leases were common on older family tracts and can leave an owner earning a fixed sum year after year while a well nearby, or even the same well after a workover, produces at a rate that would justify a far larger royalty share under a modern lease.",
+    "Converting out of a flat-rate arrangement, either by renegotiating with the current operator or by selling the underlying mineral interest to a buyer who accounts for the gap between what a flat-rate lease pays and what the acreage is realistically worth, is one of the more common situations we see in West Virginia files. If your family has been receiving the same lease payment for years without change, it is worth having someone actually look at the lease language and the well's production history side by side."
+   ]
+  },
+  {
+   "heading": "What selling actually commits you to",
+   "paragraphs": [
+    "Selling converts your mineral interest, leased or unleased, producing or not, into a lump sum now, ending your exposure to future decline, future commodity price swings, and future paperwork. It also ends your upside if the well outperforms expectations or if new wells are later drilled on your acreage. For owners holding a small fractional interest inherited through an estate, or an interest complicated by unresolved heirship among several relatives, selling can also be the simpler path, since it resolves the ownership question in a single transaction rather than requiring every heir to stay engaged with lease paperwork indefinitely.",
+    "Selling is generally the more attractive option when the interest is small enough that ongoing statements and tax reporting are more hassle than the income justifies, when the family wants to close out an estate cleanly, or when a well's production has clearly entered decline and the near-term income no longer reflects what the interest is worth."
+   ]
+  },
+  {
+   "heading": "How to actually decide",
+   "paragraphs": [
+    "Pull your last several royalty statements if you have production history, or your lease bonus and terms if you do not, and look at the trend rather than a single number. A producing well with flat or slowly declining volume over several statements suggests a maturing asset; a well still ramping suggests more upside remains. Weigh that against how many heirs are involved, how current your title chain is, and how much ongoing involvement you want. There is no universal right answer, only the one that fits your specific acreage and family situation, and it is worth talking through with someone who can look at your actual documents rather than a general rule of thumb."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can I sell my mineral rights if they are already leased?",
+   "answer": "Yes. Selling a leased interest transfers ownership of the minerals along with the existing lease, and the buyer becomes the lessor of record going forward, continuing to receive royalty payments in your place."
+  },
+  {
+   "question": "What makes a flat-rate lease different from a modern royalty lease?",
+   "answer": "A flat-rate lease pays a fixed annual amount regardless of how much the well produces, while a modern lease pays a percentage of actual production value. Flat-rate leases were common decades ago and can significantly underpay relative to a well's current output."
+  },
+  {
+   "question": "Is it better to sell before or after leasing unleased minerals?",
+   "answer": "It depends on activity in your area. Leasing first can add value if operators are actively acquiring acreage nearby, but it also delays a sale and ties the interest to lease terms. Unleased minerals can also be sold directly without ever being leased, depending on your goals."
+  },
+  {
+   "question": "Do I have to sell my entire interest, or can I lease part and sell part?",
+   "answer": "You can generally split the decision, for example selling a fractional undivided share while other heirs retain and lease theirs, or selling one depth interval while keeping another, depending on how your interest is structured."
+  }
+ ],
+ "wordCount": 983,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-lease-vs-sell-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

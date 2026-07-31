@@ -1,0 +1,72 @@
+{
+ "slug": "division-orders-explained",
+ "title": "Division Orders Explained",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Division Orders Explained for WV Owners",
+ "metaDescription": "What a West Virginia division order actually is, how the decimal interest gets calculated, and why signing one matters for your title.",
+ "heroLead": "Before an operator sends a first check, they send a division order, and how you handle that single document says a lot about whether your title chain is clean.",
+ "intro": [
+  "A division order is the operator's written statement of how it intends to pay a well or unit, broken down by owner and by decimal interest. It is not the lease, and signing one does not amend the lease terms underneath it. But it is the document that turns a title opinion into an actual check, and West Virginia owners who inherited fractional shares often see their first division order years after the original lease was signed by a parent or grandparent.",
+  "This piece walks through where the numbers on a division order come from, what to check before signing, and how division orders connect to the broader chain-of-title questions that come up constantly in heirship files across the state."
+ ],
+ "sections": [
+  {
+   "heading": "Where the decimal comes from",
+   "paragraphs": [
+    "An operator's land department builds a division order from a title opinion, usually prepared by outside counsel, that traces ownership of the tract back through the courthouse record. Your decimal interest is your net mineral acreage divided by the total acreage in the spacing unit, multiplied by the royalty fraction in your lease. Every co-owner in the unit gets a line, and the decimals across the whole unit should sum to one, net of the working interest owner's share.",
+    "If you hold a fractional interest that passed through several generations without a clean recorded chain, the title opinion may only recognize the portion the courthouse record supports, which is sometimes less than what your family believes you are entitled to."
+   ]
+  },
+  {
+   "heading": "Why the request often arrives late",
+   "paragraphs": [
+    "Operators typically will not issue a division order, or a check, until they have a title opinion that satisfies their land department, and building that opinion takes time when a tract has passed through multiple estates. It is common in West Virginia for a well to have been producing for months before an heir who was never formally probated into the chain receives paperwork, because the operator was waiting on curative documents.",
+    "This is also why some owners are asked to sign an affidavit of heirship, a recorded deed of distribution, or a small estate affidavit before a division order will issue in their name at all. Those documents are not optional formalities. They are what lets the land department move your decimal off suspense and onto a paying status."
+   ]
+  },
+  {
+   "heading": "Reading the document before you sign",
+   "paragraphs": [
+    "Check the decimal interest against your own math if you can, check that the effective date lines up with when your ownership began, and check whether the document references the correct legal description for your tract. A division order that references the wrong tract, or lumps your interest in with a relative's under a single decimal, should be corrected before you sign, not after.",
+    "Most division orders include language stating that signing does not amend your lease and that the operator can adjust the decimal later if title changes. That is standard. What is worth flagging is any clause that tries to extend a lease term or add new deductions beyond what your original lease provided, which occasionally shows up in older forms and is worth a second look."
+   ]
+  },
+  {
+   "heading": "What this means if you are considering a sale",
+   "paragraphs": [
+    "A signed, current division order is one of the strongest pieces of paper you can hand a buyer, because it confirms an operator's land department has already vetted your decimal interest and is paying against it. Interests still in suspense, or interests where the division order has never been issued because heirship was never curatively resolved, take longer to value and usually require the title work to happen before or during a sale rather than after.",
+    "Keep copies of every division order you have signed, even ones tied to interests that no longer produce. Old division orders are often the fastest way to reconstruct a decimal interest history when a well is later reworked, restimulated, or included in a new unit, and they can shorten the title review considerably when it comes time to sell."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I have to sign a division order to keep receiving royalty payments?",
+   "answer": "Most operators will hold payments in suspense until a division order is signed and returned, though some will pay for a limited period without one. Signing promptly, once you have confirmed the decimal is accurate, generally avoids a suspense hold on your funds."
+  },
+  {
+   "question": "Can an operator change my decimal interest after I sign?",
+   "answer": "Yes. Division orders typically state that the decimal can be adjusted if later title work, a new well in the unit, or a curative document changes the ownership picture. Signing does not lock in the number permanently."
+  },
+  {
+   "question": "What if the division order lists the wrong legal description?",
+   "answer": "Contact the operator's owner relations or land department directly and do not sign until it is corrected. A wrong tract reference can delay payment or misapply your interest to the wrong unit."
+  },
+  {
+   "question": "Does a division order transfer or affect my mineral ownership?",
+   "answer": "No. It is strictly a payment mechanism reflecting the operator's understanding of your ownership share. Title to the minerals themselves is controlled by your deeds and the recorded chain of title, not by the division order."
+  },
+  {
+   "question": "Who prepares the title opinion behind a division order?",
+   "answer": "Typically outside counsel retained by the operator's land department, working from the recorded courthouse chain of title for the tract. Their opinion is only as complete as the recorded record, which is why unresolved heirship can hold up a decimal even when a family knows exactly who the rightful owners are."
+  }
+ ],
+ "wordCount": 968,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-division-orders-explained-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Division Orders Explained mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

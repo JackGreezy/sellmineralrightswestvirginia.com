@@ -1,0 +1,20 @@
+{
+ "domain": "sellmineralrightswestvirginia.com",
+ "keyword": "sell mineral rights west virginia",
+ "segment": "westvirginia-state",
+ "intent": "seller",
+ "tier": "Expansion (170 head vol, $8.31 sell CPC)",
+ "available": true,
+ "voice": "title-researcher: abstracts & heirship detail; meticulous, documentation-heavy",
+ "angle": "WV pillar; flat-rate lease conversions + heirship fragmentation depth",
+ "taxonomyCounts": {
+  "locations": 92,
+  "basins": 2,
+  "situations": 10,
+  "interest-types": 6,
+  "resources": 10,
+  "pages": 7
+ },
+ "totalPages": 127,
+ "status": "scaffold"
+}

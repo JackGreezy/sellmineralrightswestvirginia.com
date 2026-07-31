@@ -1,0 +1,32 @@
+{
+  "src": "https://www.iceye.com/",
+  "host": "iceye.com",
+  "pages": [
+    {
+      "label": "home",
+      "url": "https://www.iceye.com/",
+      "bytes": 150615
+    },
+    {
+      "label": "about",
+      "url": "https://www.iceye.com/company",
+      "bytes": 141806
+    },
+    {
+      "label": "contact",
+      "url": "https://www.iceye.com/contact/general-business",
+      "bytes": 104506
+    },
+    {
+      "label": "index",
+      "url": "https://www.iceye.com/solutions",
+      "bytes": 126666
+    },
+    {
+      "label": "slug",
+      "url": "https://www.iceye.com/solutions/insurance",
+      "bytes": 167717
+    }
+  ],
+  "capturedAt": "see-fs-mtime"
+}

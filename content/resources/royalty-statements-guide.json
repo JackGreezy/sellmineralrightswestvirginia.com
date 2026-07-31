@@ -1,0 +1,67 @@
+{
+ "slug": "royalty-statements-guide",
+ "title": "Reading Your Royalty Statements",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Reading West Virginia Royalty Statements",
+ "metaDescription": "A West Virginia owner's guide to royalty statement line items, decimal interest, and what a check stub tells you about the well behind it.",
+ "heroLead": "A royalty check stub is a short document that carries a long paper trail behind it, and once you know where each number originates you can read it the way a title examiner does.",
+ "intro": [
+  "Most West Virginia mineral owners receive a check stub once a month or once a quarter, and most of them look at the dollar figure and set the rest aside. That is a mistake, because the stub is the only regular report you get on a producing well, and the columns on it map directly back to the division order and the lease that created your interest in the first place. If you are weighing whether to sell, the statement is often the single best piece of evidence you have.",
+  "This guide walks through the standard line items on a West Virginia royalty statement, explains where the decimal interest figure comes from, and flags the patterns that tend to matter most when a buyer is putting together an offer."
+ ],
+ "sections": [
+  {
+   "heading": "The columns that actually matter",
+   "paragraphs": [
+    "A typical statement lists the well or unit name, a production month, gross volume in mcf or barrels, a price, deductions, your decimal interest, and a net payment. The decimal interest is the number worth circling. It is usually expressed to eight or ten places, something like 0.00187500, and it represents your fractional share of the unit after your net mineral acreage has been divided by the total spacing unit acreage and multiplied by your lease's royalty fraction.",
+    "If that decimal changes from one statement to the next without a corresponding change in production, something in the ownership chain moved. That could be a new well added to the unit, a re-allocation after a title curative, or in some cases an operator correcting a prior overpayment to a co-tenant. Any of those is worth a phone call to the operator's owner relations desk before you assume the number is simply wrong."
+   ]
+  },
+  {
+   "heading": "Deductions and why they vary",
+   "paragraphs": [
+    "West Virginia leases written decades ago, especially the flat-rate leases common on older family tracts, often say very little about post-production costs. Modern leases spell out whether gathering, compression, dehydration, and marketing costs come off the top before your royalty is calculated. When you see a deduction line labeled 'gathering' or 'processing,' that is coming out of gross revenue under the terms of a specific lease clause, and different heirs under different leases on the same unit can see different net numbers even off identical gross production.",
+    "This is one of the more common points of confusion in heirship situations, where several siblings or cousins inherited fractional shares under leases signed by different generations. One statement might show heavier deductions than a cousin's simply because the original lease language differs, not because anyone made an error."
+   ]
+  },
+  {
+   "heading": "What a buyer reads into your stub",
+   "paragraphs": [
+    "When you are getting an offer on a mineral or royalty interest, the last several statements are the primary evidence a buyer works from. They tell a buyer the actual decimal interest currently being paid, the recent price realized per unit, and whether production has been flat, declining, or growing. A string of consistent statements with a stable decimal is worth more in due diligence than a single strong month, because it demonstrates the interest is clean and the well is behaving predictably.",
+    "Gaps in your statement history, or a switch in operator name on the stub, usually just reflect an operator sale of the well and are easy to explain. But if you cannot locate more than a statement or two, that itself becomes something a buyer has to work around, often by pulling production data directly from state records instead."
+   ]
+  },
+  {
+   "heading": "When the numbers do not match your expectation",
+   "paragraphs": [
+    "It is common for an heir who inherited a fractional interest to expect a certain percentage and find the statement showing something smaller. Before assuming an error, check whether your ownership passed through an estate that was formally probated with a recorded deed or affidavit of heirship, and whether every co-owner in your generation is accounted for. Unprobated estates are a frequent source of decimal interest disputes in West Virginia, because an operator's owner relations department can only pay against the ownership documented in the county clerk's records, not against what a family believes is fair among itself."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Why did my royalty check shrink even though gas prices went up?",
+   "answer": "Deductions for gathering, compression, and marketing are typically calculated as a percentage of gross value, so when the price rises the dollar amount of those deductions can rise too, sometimes faster than your net payment. Compare the gross volume line across statements rather than the net check alone to see the real production trend."
+  },
+  {
+   "question": "What does a suspense notation on my statement mean?",
+   "answer": "Suspense usually means the operator is withholding your share of proceeds until a title question is resolved, often because heirship has not been documented with recorded deeds or affidavits, or because there is a dispute over the division order. Funds in suspense typically require curative paperwork before they are released."
+  },
+  {
+   "question": "Can I get older statements if I only have a recent few?",
+   "answer": "Most operators will provide a production history on request through their owner relations line, and some post historical volumes tied to your well through the state's online production reporting system. Having two to three years of history strengthens any offer conversation."
+  },
+  {
+   "question": "Does my royalty statement prove I am the full owner of my mineral interest?",
+   "answer": "No. A statement only reflects what the operator has recorded as your paid decimal interest based on the documents in the county courthouse. If your ownership passed through unprobated heirship, the recorded chain of title may lag behind what the family believes is the true division, and a title search is the only way to confirm actual ownership."
+  }
+ ],
+ "wordCount": 994,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Reading Your Royalty Statements mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes on Selling WV Mineral Rights",
+ "metaDescription": "A general overview of how a West Virginia mineral rights sale is typically taxed, including basis, holding period, and inherited interests.",
+ "heroLead": "The tax treatment of a mineral sale depends heavily on how you acquired the interest and how long you have held it, which is exactly the kind of detail a title file usually already answers.",
+ "intro": [
+  "This is a general overview of how a mineral rights sale is typically treated for tax purposes in the United States, not personalized tax advice, and every owner's situation differs based on their broader finances, state of residence, and how the interest was acquired. Talk to your CPA or tax advisor about your specific situation before finalizing a sale, particularly if the interest passed through an estate or has been leased and producing for a long period.",
+  "With that said, understanding the general framework helps you ask better questions and gather the right documentation before that conversation."
+ ],
+ "sections": [
+  {
+   "heading": "Basis and how it is generally determined",
+   "paragraphs": [
+    "For minerals you purchased directly, your basis is generally what you paid, adjusted for any prior depletion claimed if the interest was producing. For minerals you inherited, basis is typically stepped up to the fair market value as of the date of death, which is one of the more valuable aspects of an inherited mineral interest and part of why an appraisal or valuation near the date of death can matter for later tax purposes.",
+    "This is also why the estate and heirship records covered elsewhere on this site matter beyond establishing your ownership. They often connect directly to establishing your basis when it comes time to report a sale, particularly when a mineral interest has passed through more than one generation and the relevant date of death for stepped-up basis purposes is not the most recent one."
+   ]
+  },
+  {
+   "heading": "Holding period and capital gains treatment",
+   "paragraphs": [
+    "A sale of mineral rights is generally treated as a sale of a capital asset, with the gain taxed as long-term or short-term capital gain depending on how long you or your predecessor in an inherited interest held it. Inherited property typically receives long-term treatment regardless of how briefly the heir has actually held it, which is a detail worth confirming with your tax advisor given how often mineral interests in West Virginia pass through inheritance rather than direct purchase."
+   ]
+  },
+  {
+   "heading": "Royalty income versus sale proceeds",
+   "paragraphs": [
+    "It is worth distinguishing ordinary royalty income, which you may have been reporting annually if your interest was producing, from the proceeds of an actual sale of the mineral interest itself, which is a separate transaction typically subject to capital gains rules rather than ordinary income treatment. If you sell a producing interest partway through a year, you will generally still report any royalty income received up to the sale date as ordinary income, separate from the gain or loss on the sale itself.",
+    "If you previously claimed depletion deductions against royalty income from the interest, those deductions can also affect your basis calculation at the time of sale, which is another reason to bring your full statement and filing history to whoever prepares your return for the year of the sale."
+   ]
+  },
+  {
+   "heading": "Multiple heirs selling undivided shares",
+   "paragraphs": [
+    "When several heirs each hold an undivided fractional share and each sells independently, each heir generally reports their own gain based on their own basis, typically the stepped-up value attributable to their share as of the relevant date of death. Because timing and documentation can affect this, it is worth each heir confirming their own basis calculation with their own tax advisor rather than assuming an identical number applies across the family.",
+    "This is also where good estate records pay off twice. The same documents that establish your legal right to sell your share, whether probate records or an affidavit of heirship, are often the documents your tax advisor needs to substantiate your basis if a return is ever questioned."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I owe tax on the full sale price of my mineral rights?",
+   "answer": "No. You generally owe tax on the gain, meaning the sale price minus your basis in the interest, not on the full proceeds. Talk to your CPA or tax advisor to confirm your specific basis and gain calculation."
+  },
+  {
+   "question": "How is basis determined for inherited mineral rights?",
+   "answer": "Inherited minerals typically receive a stepped-up basis equal to fair market value as of the date of death, which can significantly reduce taxable gain compared to the original purchase price paid decades earlier by a prior owner."
+  },
+  {
+   "question": "Is selling mineral rights taxed differently than receiving royalty income?",
+   "answer": "Generally yes. Royalty income is typically taxed as ordinary income as it is received, while proceeds from selling the underlying mineral interest are typically treated as a capital gain based on your basis and holding period."
+  },
+  {
+   "question": "Should I talk to a tax advisor before or after accepting an offer?",
+   "answer": "Before finalizing anything is generally wisest, since your specific tax situation, including how the interest was acquired, can affect how you think about net proceeds from a given offer."
+  },
+  {
+   "question": "Does West Virginia impose its own tax on a mineral rights sale beyond federal capital gains?",
+   "answer": "State tax treatment varies and can depend on your residency and other factors, so this is another item to confirm with your CPA or tax advisor rather than assume based on general information."
+  }
+ ],
+ "wordCount": 885,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

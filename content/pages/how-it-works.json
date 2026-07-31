@@ -1,0 +1,78 @@
+{
+ "slug": "how-it-works",
+ "title": "How It Works",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "How Selling Your WV Minerals Works",
+ "metaDescription": "The step-by-step process for selling West Virginia mineral rights, from initial documents through title curative work and closing.",
+ "heroLead": "Selling a West Virginia mineral interest follows a fairly predictable sequence once you know it, even when the underlying title has a few wrinkles in it, and each stage below exists for a specific title or documentation reason.",
+ "intro": [
+  "Owners often assume selling a mineral interest is either instant or impossibly complicated, and it is usually neither. The process has a handful of distinct stages, and how quickly you move through them depends mostly on how documented your title already is. This page walks through what actually happens from the first phone call to the recorded deed at the end.",
+  "None of these steps require you to have everything figured out before you start. Most West Virginia files arrive with at least one gap, and identifying that gap is part of the work we do, not something you need to solve first."
+ ],
+ "sections": [
+  {
+   "heading": "Step one: tell us what you have",
+   "paragraphs": [
+    "We start with a conversation about your mineral interest: where it sits, whether it is leased or unleased, producing or not, and whatever documents you already have, whether that is a deed, a royalty statement, an old lease, or estate paperwork from whoever the interest passed through. You do not need a complete file to start this conversation."
+   ]
+  },
+  {
+   "heading": "Step two: we review the title",
+   "paragraphs": [
+    "We trace the recorded chain of title in the county where your minerals sit, working from your deed or estate records back through whatever transfers or inheritances brought the interest to you. This is where we identify anything that needs curative attention, whether that is an unprobated estate, an undivided share among several heirs that was never formally documented, or an old flat-rate lease that needs to be accounted for in how we structure an offer.",
+    "For producing interests, we also review your recent royalty statements and division order to understand the current decimal interest and how the well has been performing over time.",
+    "This step is where most West Virginia files either move quickly or slow down, depending on how the title was documented in the first place. A tract with a clean, recorded chain moves fast. One with an informal family distribution from decades ago typically needs an extra step before it can move to an offer."
+   ]
+  },
+  {
+   "heading": "Step three: we put together an offer",
+   "paragraphs": [
+    "Based on the title review and, where applicable, the production history, we put together an offer specific to your interest. We explain how we arrived at the number, and if your file involves an old flat-rate lease or an unresolved heirship situation, we explain how that factored into the offer rather than leaving you to guess. There is no obligation at this stage, and you are free to take time, ask questions, or compare the offer against another source before deciding.",
+    "For producing interests, this typically means walking you through how we read your recent royalty statements and what that history suggests about the well's decline. For unleased acreage, it means explaining what nearby leasing or drilling activity we looked at to arrive at a range."
+   ]
+  },
+  {
+   "heading": "Step four: curative work, if needed",
+   "paragraphs": [
+    "If your title review surfaced something that needs to be resolved before closing, such as an affidavit of heirship or a corrective deed, we walk through that process with you directly rather than leaving you to navigate it alone. Many curative steps are more routine than owners expect, particularly affidavits of heirship for smaller estates that were never formally probated."
+   ]
+  },
+  {
+   "heading": "Step five: closing",
+   "paragraphs": [
+    "Once everything is in order, you sign a mineral deed conveying your interest, which we record in the county clerk's office where the property sits. If your interest is currently leased and producing, we handle notifying the operator so future royalty payments are redirected under a new division order in our name rather than yours.",
+    "You receive a copy of the recorded deed once closing is complete, along with confirmation that the operator, if applicable, has been notified. That closes out your involvement with the interest, though we are happy to answer follow-up questions if anything comes up afterward."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How long does the whole process usually take?",
+   "answer": "A file with a clean, already-documented title can move to closing in a matter of weeks. Files that require curative work, such as resolving an unprobated estate or documenting multiple heirs, typically take longer while that paperwork is prepared."
+  },
+  {
+   "question": "Do I need to hire an attorney before contacting you?",
+   "answer": "Not necessarily, though for more complicated estate situations, having your own attorney involved can be helpful, and we are glad to work alongside them throughout the process."
+  },
+  {
+   "question": "What if the title review finds a problem with my ownership?",
+   "answer": "We explain exactly what we found and what would need to happen to resolve it. In most cases this is a fixable curative step rather than something that disqualifies you from selling."
+  },
+  {
+   "question": "Can I back out after receiving an offer?",
+   "answer": "Yes. There is no obligation to move forward at any point before you sign closing documents, and you are free to walk away or take more time to decide."
+  },
+  {
+   "question": "What if several relatives are involved and only one of us wants to sell?",
+   "answer": "Each heir can generally sell their own undivided share independently. We can evaluate and structure an offer for your specific portion regardless of what the other co-owners choose to do with theirs."
+  }
+ ],
+ "wordCount": 906,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-how-it-works-sellmineralrightswestvirginia-com.jpg",
+  "alt": "How It Works mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

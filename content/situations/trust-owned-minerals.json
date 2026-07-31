@@ -1,0 +1,79 @@
+{
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "metaTitle": "Selling Trust-Owned Mineral Rights in West Virginia",
+ "metaDescription": "Trustees selling West Virginia mineral rights held in a family trust: we confirm trustee authority and title before closing, coordinated with your trust documents.",
+ "heroLead": "A trust holding West Virginia mineral rights adds a layer of paperwork most buyers aren't set up to handle correctly, starting with the simple fact that the trustee, not the beneficiaries, has to sign.",
+ "intro": [
+  "Families that put land or mineral rights into a trust decades ago, often as part of broader estate planning, sometimes forget the trust structure still governs how those minerals can be sold today. A trustee selling on behalf of a West Virginia mineral trust needs the deed to properly reference their authority under the trust instrument, and depending on how the trust was drafted, may need to show a buyer additional documentation beyond a title search to close cleanly.",
+  "We work directly with trustees on this, reviewing the trust document alongside the mineral title itself so the closing paperwork holds up correctly at the county clerk's office."
+ ],
+ "sections": [
+  {
+   "heading": "What we need from the trust instrument itself",
+   "paragraphs": [
+    "Before closing, we review the relevant sections of the trust agreement confirming the trustee's power to sell real property, including mineral interests, without requiring individual beneficiary consent for each transaction. Most well-drafted trusts grant this authority explicitly. Where the language is ambiguous or the trust requires beneficiary sign-off for asset sales above a certain value, we'll flag that early so it doesn't surface as a surprise at closing.",
+    "A certificate of trust, a shorter document many trustees already have that summarizes the trustee's authority without disclosing the full trust terms, is often sufficient and preferred by trustees who'd rather not share the complete instrument with a buyer."
+   ]
+  },
+  {
+   "heading": "Tracing how the minerals got into the trust in the first place",
+   "paragraphs": [
+    "We also confirm how the mineral interest entered the trust, whether it was deeded in directly by the original owner, or passed into the trust through a pour-over will after someone's death. That transfer has to be properly recorded at the county clerk's office for the trust to hold clean title today. Older West Virginia family trusts, particularly ones drafted before the horizontal drilling boom made mineral rights suddenly more valuable, sometimes never had the mineral interest formally re-deeded into the trust's name even though everyone in the family understood it belonged there.",
+    "If that recording step was missed, we can usually help resolve it as part of the sale process rather than treating it as a dealbreaker, working with the trustee to prepare and record whatever confirming deed the county clerk's office requires."
+   ]
+  },
+  {
+   "heading": "Successor trustees and changes in who has authority",
+   "paragraphs": [
+    "It's common for the original trustee named in an older trust to have died or become incapacitated, with a successor trustee now managing the trust's assets. We confirm the current, active trustee's authority through the trust's successor provisions and, where required, documentation showing the prior trustee's death or resignation, before treating anyone as authorized to sign the deed."
+   ]
+  },
+  {
+   "heading": "Coordinating with beneficiaries even when they don't sign",
+   "paragraphs": [
+    "Even where the trustee has sole legal authority to sell, we understand many trustees prefer to keep beneficiaries informed given that a mineral sale affects a shared family asset. We're glad to provide documentation, valuation detail and closing terms trustees can pass along to beneficiaries directly, without requiring beneficiary signatures where the trust doesn't call for them."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Does every beneficiary need to sign off on a trust mineral sale?",
+   "answer": "Usually not, if the trust grants the trustee independent authority to sell real property. We review the trust language to confirm before closing, and flag it if your specific trust requires additional consent."
+  },
+  {
+   "question": "Do I need to share the entire trust document with you?",
+   "answer": "Often a certificate of trust summarizing the trustee's authority is enough, without disclosing the full trust terms. We'll tell you what's actually needed once we see your situation."
+  },
+  {
+   "question": "The original trustee passed away. Who has authority now?",
+   "answer": "The trust's successor trustee provisions govern that. We'll ask for documentation confirming the current trustee's appointment, such as a death certificate for the prior trustee, before treating the new trustee as authorized to sign."
+  },
+  {
+   "question": "The mineral rights were never formally deeded into the trust's name. Is that a problem?",
+   "answer": "It's a common gap in older family trusts and usually fixable as part of the sale, but it does need to be resolved and recorded before closing so the trust holds clean, sellable title."
+  },
+  {
+   "question": "Can beneficiaries get information about the sale even if they don't need to sign?",
+   "answer": "Yes. We can provide valuation and closing detail the trustee can share with beneficiaries directly, since keeping the family informed on a shared asset is a reasonable trustee practice even when it's not legally required."
+  },
+  {
+   "question": "What if the trust holds mineral interests across several West Virginia counties?",
+   "answer": "We can research and close each county's portion in coordination, since the trustee's authority applies across the whole trust estate. We'll lay out a single timeline covering all the tracts involved rather than treating each county as a separate transaction."
+  },
+  {
+   "question": "Does it matter if the trust is revocable or irrevocable?",
+   "answer": "It affects who ultimately controls the sale decision. A revocable trust's grantor often retains authority alongside or instead of the trustee, while an irrevocable trust generally leaves that authority solely with the named trustee under the trust's own terms."
+  }
+ ],
+ "status": "written",
+ "wordCount": 890,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

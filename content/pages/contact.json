@@ -1,0 +1,82 @@
+{
+ "slug": "contact",
+ "title": "Contact",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Contact Us | West Virginia Mineral Buyer",
+ "metaDescription": "Reach out about your West Virginia mineral or royalty interest, whether you have a specific question or are ready to start a title review.",
+ "heroLead": "Whether you have a specific question about a division order, an old lease, or an interest you inherited, the fastest way to get a real answer is to tell us the details, since general questions tend to get general answers.",
+ "intro": [
+  "Not every conversation needs to start with a formal offer request. If you have a question about your mineral rights, whether that is understanding a royalty statement, figuring out whether an old flat-rate lease is worth renegotiating, or sorting out how an inherited fractional interest actually works, reach out and describe your situation. We are glad to talk through it even if you are not ready to decide anything yet.",
+  "If you are further along and ready to explore an offer, mention that too and we can move straight into reviewing your documents and title."
+ ],
+ "sections": [
+  {
+   "heading": "What to include when you reach out",
+   "paragraphs": [
+    "A few basic details help us respond with something useful rather than a generic reply: the county where the minerals sit if you know it, whether the interest is leased or producing, and roughly how you came to own it, whether by direct purchase or through inheritance. None of this needs to be precise. We can help fill in the gaps once we hear from you.",
+    "If your question is about a specific document, such as a division order that looks wrong or a royalty statement you do not understand, mentioning that directly and describing what you are seeing helps us give you a specific answer rather than a general one."
+   ]
+  },
+  {
+   "heading": "Questions about heirship and title",
+   "paragraphs": [
+    "A significant share of the questions we get involve family interests that were never formally divided at the courthouse, or an heir trying to understand why their royalty decimal looks smaller than expected. These are exactly the kinds of questions we spend our time on, and there is no need to have the title fully sorted out before you ask.",
+    "If several relatives share an interest and are not sure who should reach out first, any one of you is welcome to start the conversation. We can help sort out the full ownership picture once we understand what has been recorded and what has not."
+   ]
+  },
+  {
+   "heading": "Response times",
+   "paragraphs": [
+    "We typically respond within a business day or two. If your question requires us to look into county records or a specific well's production history before we can give you a useful answer, we will let you know that upfront rather than leaving you waiting without an explanation."
+   ]
+  },
+  {
+   "heading": "If you are coordinating on behalf of family",
+   "paragraphs": [
+    "It is common for one relative to take the lead when a mineral interest is shared among several heirs, gathering documents and asking questions on behalf of siblings or cousins who live elsewhere or have not been closely involved with the property. We are glad to work with whoever is coordinating, while confirming actual ownership through the recorded title and estate documents once things move toward an offer."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do I need to have all my paperwork ready before I contact you?",
+   "answer": "No. Reach out with whatever you have, even if it is incomplete, and we can help identify what else might be needed based on your specific situation."
+  },
+  {
+   "question": "Can I ask a general question without requesting an offer?",
+   "answer": "Yes. We are glad to answer questions about royalty statements, leases, or heirship issues even if you are not currently considering a sale."
+  },
+  {
+   "question": "What is the best way to describe my situation if I am not sure what I own?",
+   "answer": "Share whatever you know, such as the county, any documents in hand, and how the interest came into your family. We can help trace the rest through the recorded title."
+  },
+  {
+   "question": "Is contacting you the same as agreeing to sell?",
+   "answer": "No. Reaching out starts a conversation only. There is no obligation to move forward with a sale at any point."
+  },
+  {
+   "question": "Can I contact you on behalf of a relative who is not comfortable handling this themselves?",
+   "answer": "Yes. It is common for one family member to take the lead on gathering information for an inherited mineral interest, and we can work with whoever is coordinating on behalf of the family while still confirming ownership through the proper documentation."
+  },
+  {
+   "question": "Can I reach out if I live outside West Virginia?",
+   "answer": "Yes. Many heirs of West Virginia mineral interests live elsewhere, and we regularly communicate and close transactions remotely with owners who no longer live in the state."
+  },
+  {
+   "question": "What if I am not sure this website covers my situation at all?",
+   "answer": "Reach out anyway and describe what you have. Even interests that sound unusual, such as a partial depth interest or a tract with no recent activity, are worth a conversation before you assume there is no path forward."
+  },
+  {
+   "question": "Do you respond by phone, email, or either?",
+   "answer": "Whichever you prefer. Let us know your preferred method when you reach out and we will follow up that way, though some document review may still require email for sharing files."
+  }
+ ],
+ "wordCount": 853,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-contact-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Contact mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

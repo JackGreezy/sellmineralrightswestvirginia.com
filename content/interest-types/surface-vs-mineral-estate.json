@@ -1,0 +1,73 @@
+{
+ "slug": "surface-vs-mineral-estate",
+ "title": "Surface vs. Mineral Estate",
+ "type": "interest-type",
+ "metaTitle": "Surface Rights vs. Mineral Rights in West Virginia",
+ "metaDescription": "Own the surface but not the minerals under your West Virginia land, or the reverse? We trace the severance deed that split the two estates apart.",
+ "heroLead": "In West Virginia, owning the land and owning what's beneath it are frequently two entirely separate legal questions, and the deed that split them apart is often older than anyone living on the property today.",
+ "intro": [
+  "Severed mineral estates are widespread across West Virginia, a legacy of coal, timber and land companies buying up mineral and timber rights across the state in the late 1800s and early 1900s while selling or leaving the surface with local farming families. That severance created two distinct, separately transferable estates on the same tract, the surface estate covering the land itself, and the mineral estate covering the oil, gas, coal and other substances beneath it. A century of subsequent transfers, inheritances and family sales has often sent those two estates in completely different directions.",
+  "Whether you own just the surface, just the minerals, or both, understanding which one you hold, and what that means for the other, starts with tracing the original severance deed."
+ ],
+ "sections": [
+  {
+   "heading": "Finding the deed that split the estates",
+   "paragraphs": [
+    "The severance usually happened through a specific recorded deed, sometimes labeled a mineral deed or a reservation within a broader land sale, where a prior owner sold the surface but reserved the minerals, or sold the minerals while keeping the surface. That deed's date and exact language control what was actually severed, all minerals, specific substances like coal or oil and gas, or a limited depth range. We trace this document at the county clerk's office as the starting point for confirming what estate you currently hold.",
+    "In many West Virginia counties this severance dates to between 1890 and 1920, tied to the coal and timber boom of that era, well before anyone anticipated horizontal shale drilling would make the mineral estate valuable again generations later."
+   ]
+  },
+  {
+   "heading": "What surface owners are entitled to when minerals are developed",
+   "paragraphs": [
+    "If you own the surface but not the minerals, West Virginia's oil and gas surface owner protections generally require an operator to provide notice before entering to drill and to compensate you for damages to the surface, crops, fencing and other improvements caused by development, even though the mineral estate is legally dominant for reasonable development purposes. Surface owners don't typically share in royalty income unless they separately hold some mineral or royalty interest, but the compensation and notice protections are worth understanding if development activity is moving into your area."
+   ]
+  },
+  {
+   "heading": "What mineral owners without surface rights should know",
+   "paragraphs": [
+    "If you own minerals but not the surface, you generally don't need the surface owner's permission to lease those minerals or to have an operator access the land for reasonable development, though the operator typically owes the surface owner compensation independent of your royalty. This dominant-estate structure is part of what makes a severed mineral interest valuable and sellable on its own, separate from any relationship with whoever currently farms or lives on the surface above it."
+   ]
+  },
+  {
+   "heading": "Confirming which estate, or both, you actually hold",
+   "paragraphs": [
+    "Some West Virginia families still hold both the surface and the minerals on ancestral land, never severed by an earlier generation. Others hold one or the other, sometimes without fully realizing which. We trace the recorded deed history to confirm exactly what estate, or estates, you own before discussing any sale, since surface and mineral interests are valued through entirely different lenses and a sale of one has no bearing on ownership of the other."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if my mineral rights were severed from my surface land?",
+   "answer": "Check your deed and the recorded chain behind it at the county clerk's office. A severance deed, sometimes labeled a mineral deed or a reservation clause within a land sale, is what would have split the two estates apart."
+  },
+  {
+   "question": "I own the surface. Do I get any royalty if a well is drilled?",
+   "answer": "Not unless you separately hold a mineral or royalty interest. Surface ownership alone generally doesn't entitle you to production royalties, though you're entitled to notice and compensation for surface damages under West Virginia's surface owner protections."
+  },
+  {
+   "question": "Can an operator drill without the surface owner's permission?",
+   "answer": "Generally yes, if the mineral estate is validly severed and leased, since West Virginia treats the mineral estate as dominant for reasonable development, subject to the operator's obligation to compensate the surface owner for damages."
+  },
+  {
+   "question": "Can I sell my mineral rights without the surface owner's involvement?",
+   "answer": "Yes, in most cases. A severed mineral estate is its own separately transferable property right and doesn't require the surface owner's consent or participation to sell."
+  },
+  {
+   "question": "My family still owns both the surface and the minerals. Does that change anything?",
+   "answer": "It can simplify some things, since there's no separate surface owner to coordinate with on access or damages, but the mineral and surface portions are still valued and can be sold separately if you decide to sell only one."
+  },
+  {
+   "question": "Does selling my mineral rights affect my ownership of the surface land?",
+   "answer": "No. Selling a severed mineral interest doesn't touch surface ownership at all, since the two estates are legally separate once severed. You keep the surface land exactly as before."
+  }
+ ],
+ "status": "written",
+ "wordCount": 873,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-surface-vs-mineral-estate-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Surface vs. Mineral Estate mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

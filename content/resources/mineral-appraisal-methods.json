@@ -1,0 +1,71 @@
+{
+ "slug": "mineral-appraisal-methods",
+ "title": "How Minerals Are Appraised",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "How West Virginia Mineral Rights Are Valued",
+ "metaDescription": "The methods buyers and appraisers use to value West Virginia mineral interests, from discounted cash flow to comparable lease and sale data.",
+ "heroLead": "There is no single formula for what a West Virginia mineral interest is worth, but there is a fairly consistent set of methods examiners and buyers actually use to get there.",
+ "intro": [
+  "Owners often ask for a simple multiplier, some number of times the last royalty check, and it is easy to see why that appeals: it is quick and it feels concrete. But real valuation work looks at more than a single payment, because a single statement can be an outlier month, a partial period, or a check reflecting a well already well into its decline. The methods below are what actually get used, and understanding them helps you evaluate whether an offer reflects your interest's real characteristics or just a shortcut.",
+  "This guide covers the core approaches applied to West Virginia minerals, whether producing, leased and awaiting drilling, or entirely unleased."
+ ],
+ "sections": [
+  {
+   "heading": "Discounted cash flow for producing interests",
+   "paragraphs": [
+    "For a producing well, the most rigorous approach models expected future production volumes, applies a price forecast, subtracts expected deductions, and discounts that stream of future royalty income back to a present value using a discount rate that reflects the risk of the specific well and play. Wells decline at different rates depending on formation, and a well several years into its life behaves very differently than one still in its first eighteen months, which is why the shape of the decline curve matters as much as the current monthly volume.",
+    "This method depends heavily on having enough production history to model a realistic decline curve, which is exactly why several months or years of royalty statements matter so much when you are getting an interest valued."
+   ]
+  },
+  {
+   "heading": "Comparable sales and lease data",
+   "paragraphs": [
+    "For unleased or lightly developed minerals, buyers often look at recent lease bonus amounts and royalty terms being offered on comparable acreage nearby, along with any comparable mineral sales in the same county or play position, when that data is available. Core positions in an active play with strong recent leasing activity generally support different valuation ranges than flank acreage with little recent drilling nearby, though every tract has its own specifics that matter, including spacing unit position and depth rights owned.",
+    "This is one of the harder methods to apply precisely because comparable transactions are not always publicly recorded with terms disclosed, which is part of why value talk should always be expressed as a range tied to current activity rather than a fixed number."
+   ]
+  },
+  {
+   "heading": "The role of title and ownership clarity",
+   "paragraphs": [
+    "Two mineral interests with identical acreage and production can appraise differently if one has a clean, current chain of title and the other sits behind an unresolved estate or an old flat-rate lease that needs to be accounted for. A buyer factors in the time and cost of curing title issues, so a clear chain, current division order, and recent royalty history all support a cleaner, faster valuation, while unresolved heirship or missing documentation typically requires more work before an accurate number can even be produced."
+   ]
+  },
+  {
+   "heading": "Why two offers on the same tract can differ",
+   "paragraphs": [
+    "Different buyers apply different discount rates, different price forecasts, and different assumptions about future drilling, which is why offers on the same interest legitimately vary. A wide gap between offers is not necessarily a sign that one is dishonest, though it is worth understanding what assumptions sit behind each number rather than comparing the dollar figures alone.",
+    "It also helps to ask whether an offer was built from your actual documents or from general county-level assumptions. An offer grounded in your own royalty statements and title chain, even if lower than a competing number, often reflects more careful work than a higher figure produced without ever reviewing your file."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is my mineral interest worth a fixed multiple of my last royalty check?",
+   "answer": "Not reliably. A single check can reflect an unusual month, so real valuation looks at a longer production trend and the well's decline behavior rather than one payment multiplied by a number."
+  },
+  {
+   "question": "How are unleased minerals valued if there is no production to model?",
+   "answer": "Primarily through comparable lease bonus and royalty terms on similar nearby acreage, along with the tract's position relative to current drilling activity in the play."
+  },
+  {
+   "question": "Does an old flat-rate lease affect the appraisal?",
+   "answer": "Yes. A flat-rate lease can depress near-term income relative to the acreage's underlying value, and any appraisal needs to account for the actual lease terms in place alongside current production."
+  },
+  {
+   "question": "Why would a buyer want years of statements instead of just the most recent one?",
+   "answer": "A longer history allows a realistic decline curve to be modeled, which produces a far more accurate valuation than extrapolating from a single month that may not represent the well's typical output."
+  },
+  {
+   "question": "Do two appraisers ever reach different conclusions about the same interest?",
+   "answer": "Yes, and that is expected rather than a sign either one is wrong. Different discount rates, different price forecasts, and different assumptions about future drilling nearby can produce a legitimate range of values for the same tract, which is why understanding the assumptions behind a number matters more than the number alone."
+  }
+ ],
+ "wordCount": 876,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-sellmineralrightswestvirginia-com.jpg",
+  "alt": "How Minerals Are Appraised mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

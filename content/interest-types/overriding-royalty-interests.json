@@ -1,0 +1,74 @@
+{
+ "slug": "overriding-royalty-interests",
+ "title": "Overriding Royalty Interests (ORRI)",
+ "type": "interest-type",
+ "metaTitle": "Selling an Overriding Royalty Interest in West Virginia",
+ "metaDescription": "Hold an ORRI carved out of a West Virginia oil and gas lease? We trace the assignment that created it and confirm the lease is still active before making an offer.",
+ "heroLead": "An overriding royalty interest lives and dies with a specific lease, and confirming that lease is still in effect is the first thing we check before valuing one.",
+ "intro": [
+  "An overriding royalty interest, or ORRI, is a share of production carved out of a specific oil and gas lease rather than out of the mineral estate itself. It's most often created when a landman, geologist or small operator assigns a lease to a larger operator but retains a royalty percentage as part of the deal, or when an original leaseholder sells the working interest while keeping an override for themselves. In West Virginia, ORRIs from the early Marcellus land rush are common, since a lot of leasehold changed hands multiple times between the original land agent and the company that eventually drilled the well.",
+  "Because an ORRI exists only as long as the underlying lease does, tracing that lease's status is the whole ballgame before we can value the interest."
+ ],
+ "sections": [
+  {
+   "heading": "Why an ORRI depends entirely on the lease surviving",
+   "paragraphs": [
+    "Unlike a mineral or royalty interest tied to the land itself, an ORRI terminates automatically if the underlying lease expires or is released, since there's nothing left for the override to attach to. This makes lease status the central question for any ORRI valuation. A tract held by production with an active, producing well supports an ORRI with real ongoing value. A tract where the underlying lease lapsed years ago means the override lapsed right along with it, regardless of what the original assignment document said.",
+    "We pull the recorded lease and any release or extension documents at the county clerk's office to confirm current status before assuming your ORRI still has value."
+   ]
+  },
+  {
+   "heading": "Tracing the assignment that created your override",
+   "paragraphs": [
+    "The assignment document that carved out your ORRI specifies the exact percentage and often the specific lease or leases it applies to. In West Virginia's Marcellus counties, leasehold assignments during the early development years sometimes covered large blocks of acreage, meaning your override might apply across multiple wells within a broader area rather than a single tract. We read the assignment carefully to confirm the scope, since an ORRI covering an entire block pays differently than one limited to a single well.",
+    "If the assignment has itself been transferred since it was created, which happens when an ORRI holder sells or passes the interest to heirs, we also trace that subsequent chain to confirm current ownership, checking each recorded assignment against the county clerk's index."
+   ]
+  },
+  {
+   "heading": "How ORRI value compares to a straight royalty interest",
+   "paragraphs": [
+    "An ORRI and a mineral or royalty interest in the same tract can produce similar-looking royalty checks while carrying very different underlying risk. The ORRI's dependence on lease survival, combined with the fact that it often applies to a specific well or defined area rather than the broader mineral estate, generally makes it a narrower, more concentrated bet on that lease's continued production than owning the minerals themselves would be. We price that difference explicitly rather than treating an ORRI and a mineral royalty as interchangeable."
+   ]
+  },
+  {
+   "heading": "Documents that let us move quickly on an ORRI purchase",
+   "paragraphs": [
+    "We want the original assignment document creating your override, the underlying lease it attaches to, and your recent royalty statements if the interest is producing. If the ORRI passed to you through inheritance, we'll also need whatever probate or estate documentation established your current ownership before we can close."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What happens to my ORRI if the underlying lease expires?",
+   "answer": "It terminates along with the lease, since an override only exists as a carve-out from that specific lease's production. This is why confirming the lease is still active is the first step in valuing an ORRI."
+  },
+  {
+   "question": "How is an ORRI different from a mineral royalty interest?",
+   "answer": "An ORRI is carved out of a specific lease and disappears if that lease ends. A mineral or NPRI royalty interest is tied to the land itself and survives even if a particular lease is released and a new one is signed later."
+  },
+  {
+   "question": "My ORRI came from an assignment my father signed decades ago. Is it still valid?",
+   "answer": "It depends on whether the underlying lease is still active, held by production or otherwise in effect. We trace the recorded lease and assignment history to confirm current status before making an offer."
+  },
+  {
+   "question": "Does my override apply to just one well or a larger area?",
+   "answer": "That depends on the scope described in the original assignment document, which sometimes covered a defined tract and sometimes a broader leasehold block. We read the assignment to confirm exactly what your override covers."
+  },
+  {
+   "question": "Can you buy an ORRI I inherited?",
+   "answer": "Yes, provided we can confirm your ownership through probate or estate documentation and confirm the underlying lease is still active. We'll walk through exactly what's needed once we see your paperwork."
+  },
+  {
+   "question": "Is an ORRI riskier to hold than a mineral royalty interest?",
+   "answer": "Generally yes, because its entire value depends on one specific lease surviving, rather than the broader mineral estate, which continues to exist even if a lease lapses and gets replaced with a new one later."
+  }
+ ],
+ "status": "written",
+ "wordCount": 883,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

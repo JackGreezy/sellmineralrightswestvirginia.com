@@ -1,0 +1,74 @@
+{
+ "slug": "royalty-interests",
+ "title": "Royalty Interests",
+ "type": "interest-type",
+ "metaTitle": "Selling a Royalty Interest in West Virginia Mineral Rights",
+ "metaDescription": "Own a royalty interest tied to a producing West Virginia well? We confirm your decimal share against the division order and buy the interest directly.",
+ "heroLead": "A royalty interest pays you a fraction of production revenue for as long as a lease survives, and the exact fraction is set by a decimal figure that took work to arrive at correctly the first time.",
+ "intro": [
+  "A royalty interest is the right to receive a share of oil and gas production revenue, free of the costs of drilling and operating the well, in exchange for the lease of the underlying mineral rights. In West Virginia, a royalty interest usually arises when a mineral owner leases their acreage to an operator and retains a royalty share as specified in the lease, commonly one-eighth for older agreements, higher for many modern leases signed during and after the Marcellus boom.",
+  "Whether that royalty is currently paying out, and how much, depends on the decimal interest calculated by the operator's division order department, a figure that reflects your specific acreage's share of the producing unit and can be worth checking against your own records."
+ ],
+ "sections": [
+  {
+   "heading": "How your decimal interest gets calculated",
+   "paragraphs": [
+    "Your royalty decimal is generally your net mineral acres divided by the total unit acreage, multiplied by your lease's royalty fraction. For a tract pooled into a large horizontal unit, that decimal can be quite small even for a meaningful acreage position, since the unit spans many separate tracts. We check this calculation against your division order and your recorded lease to confirm the operator's math matches what your ownership actually supports, since errors do happen, particularly on tracts with a complicated ownership history.",
+    "If your acreage was split among heirs after the lease was originally signed, we also confirm that each heir's proportional share of the royalty decimal correctly reflects their fractional ownership, since the operator's records don't always update automatically after a transfer."
+   ]
+  },
+  {
+   "heading": "Flat-rate versus percentage royalty leases",
+   "paragraphs": [
+    "West Virginia has more surviving flat-rate leases than most surrounding states, older agreements that paid a fixed annual sum regardless of actual production volume rather than a percentage royalty. State law has pushed these toward a statutory minimum royalty, with 2018 amendments specifically addressing horizontal wells, but whether your specific lease was properly converted is a factual question we check against the recorded lease date and language before valuing the interest.",
+    "An unconverted flat-rate lease and a properly converted percentage lease on otherwise identical acreage are different assets, and we price that distinction directly rather than assuming conversion happened automatically."
+   ]
+  },
+  {
+   "heading": "Why royalty income declines and what that means for value",
+   "paragraphs": [
+    "Production from a shale well typically peaks in its first year or two, then declines steadily for the remainder of the well's producing life. This decline curve means a royalty interest's total future value is front-loaded, and the interest is generally worth less per dollar of current royalty income the further the well is past its peak production. We look at your specific well or unit's production history and decline trend, where available through state production records, rather than valuing purely off your most recent check."
+   ]
+  },
+  {
+   "heading": "Documents that let us confirm and price your royalty accurately",
+   "paragraphs": [
+    "The most useful documents are your recorded lease, a recent division order, and two or three months of royalty statements showing volumes and prices. With those we can confirm your decimal, check whether the lease terms are being honored correctly, and price the interest against the well's actual production trend rather than a single month's payment."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How do I know if my royalty decimal is correct?",
+   "answer": "We compare your division order decimal against your net mineral acreage, the unit's total acreage, and your lease's royalty fraction. Discrepancies do turn up, especially on tracts split among multiple heirs."
+  },
+  {
+   "question": "What's the difference between a flat-rate lease and a percentage royalty lease?",
+   "answer": "A flat-rate lease pays a fixed annual amount regardless of production volume, common in older West Virginia agreements. A percentage lease pays a share of actual production revenue. State law has pushed flat-rate leases toward a statutory minimum, but we check whether your specific lease was properly converted."
+  },
+  {
+   "question": "Why has my royalty check gotten smaller over the past couple of years?",
+   "answer": "Shale wells typically decline in production after their first year or two of peak output, which reduces royalty payments over time even with no change to your lease terms or decimal share."
+  },
+  {
+   "question": "Do you buy royalty interests that are already producing?",
+   "answer": "Yes, this is one of the more common interests we buy. We use your division order and recent royalty statements to confirm your decimal and value the interest against the well's actual production trend."
+  },
+  {
+   "question": "Can I sell just part of my royalty interest and keep the rest?",
+   "answer": "In some cases yes, depending on how the interest is structured. We can discuss a partial sale if you want to convert some income to cash now while retaining a continued royalty stream."
+  },
+  {
+   "question": "Do all my siblings need to agree before I sell my share of a family royalty interest?",
+   "answer": "No. Each heir generally holds their own undivided fractional royalty share and can decide independently, unless a specific agreement among the family says otherwise."
+  }
+ ],
+ "status": "written",
+ "wordCount": 869,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Royalty Interests mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "slug": "mineral-rights-value-guide",
+ "title": "What Are Mineral Rights Worth?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "What Are WV Mineral Rights Worth?",
+ "metaDescription": "What actually drives the value of West Virginia mineral rights, from production history and play position to title clarity and lease terms.",
+ "heroLead": "Value in a West Virginia mineral interest comes from a handful of factors that a title examiner and a buyer both look at, and none of them is a single number you can look up.",
+ "intro": [
+  "It is a reasonable question with an unsatisfying honest answer: what your mineral interest is worth depends on where it sits, what is currently happening on it, and how clean its title chain is, and any of those can shift the number substantially. Rather than offer a shortcut, this guide walks through the factors that actually move value, so you can look at your own tract with a clearer eye.",
+  "The goal here is not to give you a dollar figure, since anyone offering one without seeing your production history and title records is guessing. The goal is to help you understand what a buyer is actually weighing."
+ ],
+ "sections": [
+  {
+   "heading": "Producing versus non-producing",
+   "paragraphs": [
+    "A producing interest has an actual income stream to model, which generally makes it more straightforward to value than acreage with no current production, since royalty statements provide a real basis for projecting future decline. Non-producing minerals, whether leased and awaiting drilling or entirely unleased, are valued more speculatively, based on nearby drilling activity, comparable lease terms, and how likely the tract is to be developed in a reasonable timeframe.",
+    "Within producing interests, where the well sits on its decline curve matters as much as current volume. A well several years into production behaves very differently going forward than one still in its early, higher-volume period, and a title researcher pulling several years of statements can usually tell which phase a given well is in just from the shape of the volume trend."
+   ]
+  },
+  {
+   "heading": "Play position and formation",
+   "paragraphs": [
+    "West Virginia acreage sitting in the core of an active play generally attracts more attention and stronger comparable lease and sale activity than acreage on the flank, farther from concentrated recent drilling. This is not a fixed geographic line and shifts over time as operators focus development in different areas, which is part of why recent, local comparable data matters more than general assumptions about a county."
+   ]
+  },
+  {
+   "heading": "Lease terms already in place",
+   "paragraphs": [
+    "An interest already leased under strong, current royalty terms is generally viewed differently than the same acreage sitting under an old flat-rate lease that pays a fixed sum regardless of production, or under no lease at all. A flat-rate lease in particular can suppress near-term income well below what the acreage would produce under a modern royalty structure, and any honest valuation of that interest has to account for the gap between what the lease currently pays and what the underlying production or leasing environment would otherwise support.",
+    "West Virginia has enough of these older flat-rate arrangements still on the books that a title researcher working through a county's records will run across them regularly, often on tracts that have not seen a new lease negotiated in decades even while nearby acreage has been actively developed under modern terms."
+   ]
+  },
+  {
+   "heading": "Title clarity",
+   "paragraphs": [
+    "An interest with a clean, current, recorded chain of title values more predictably and closes faster than one sitting behind an unresolved estate, an undivided interest split among heirs who have never formally documented their shares, or a decades-old deed with an ambiguous legal description. This does not mean a messy title chain makes an interest worthless, only that it typically adds time and curative steps before a buyer can finalize an offer with confidence.",
+    "In practice, this is one of the more overlooked levers an owner actually controls. Production trends and play position are largely out of your hands, but pulling together your deed, estate records, and any missing heirship documentation before you start a sale conversation puts you in the strongest possible position when an offer is finally put together."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there a standard price per acre for West Virginia minerals?",
+   "answer": "No. Values vary widely depending on play position, production status, lease terms, and title clarity, and any figure quoted without reviewing your specific tract and history should be treated as a rough range at best."
+  },
+  {
+   "question": "Does an old flat-rate lease reduce what I can get for my minerals?",
+   "answer": "It can reduce near-term royalty income, but a buyer evaluating the underlying interest will typically account for the difference between what the flat-rate lease currently pays and the acreage's broader production or leasing potential."
+  },
+  {
+   "question": "Will an unresolved estate lower my offer?",
+   "answer": "It usually does not lower the underlying value of the interest itself, but it can extend the time and paperwork needed to close, and a buyer will factor that timeline into how an offer is structured."
+  },
+  {
+   "question": "Should I get my minerals valued before or after I resolve heirship issues?",
+   "answer": "Either can work, since a preliminary conversation about value does not require resolved title, but any final offer will depend on the title work being completed, so starting that process early generally speeds things up."
+  },
+  {
+   "question": "Can two adjoining tracts in the same county have very different values?",
+   "answer": "Yes, and often significantly so. Differences in spacing unit position, which formations are held by production, existing lease terms, and even which heirs are documented as owners can produce meaningfully different values on tracts that look identical on a map."
+  }
+ ],
+ "wordCount": 892,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-sellmineralrightswestvirginia-com.jpg",
+  "alt": "What Are Mineral Rights Worth? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

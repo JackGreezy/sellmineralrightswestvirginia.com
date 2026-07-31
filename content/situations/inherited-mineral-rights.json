@@ -1,0 +1,75 @@
+{
+ "slug": "inherited-mineral-rights",
+ "title": "Inherited Mineral Rights",
+ "type": "situation",
+ "note": "heirs deciding whether to keep or sell",
+ "metaTitle": "Inherited Mineral Rights in West Virginia: Keep or Sell?",
+ "metaDescription": "Just inherited West Virginia mineral rights? We help heirs confirm the chain of title, understand what the interest is producing, and decide whether to keep or sell.",
+ "heroLead": "Inheriting a mineral interest in West Virginia usually means inheriting a stack of unfamiliar paperwork before you inherit any actual income.",
+ "intro": [
+  "Heirs who inherit West Virginia mineral rights typically fall into one of two situations: either the estate went through a formal probate that clearly names them as the new owner, or the interest passed informally through the family for a generation or two without anyone filing the paperwork the county clerk's office actually needs to update the record. Either way, the first question is usually the same, is this worth keeping, and what would it take to sell it if I decided to.",
+  "We help heirs work through both the ownership confirmation and the keep-versus-sell decision, without pushing either direction until you actually know what you have."
+ ],
+ "sections": [
+  {
+   "heading": "Confirming you're the recorded owner",
+   "paragraphs": [
+    "Before anything else, we check whether the estate that passed you the interest was actually probated in West Virginia and whether the resulting deed or fiduciary deed was recorded at the county clerk's office. If it was, confirming your ownership is quick. If the interest passed informally, through a will that was never probated or simply by family agreement after a parent's death, we'll walk you through what West Virginia requires to clean that up, which is often an affidavit of heirship rather than a full probate if enough time has passed and the facts are straightforward.",
+    "This step matters even if you're not planning to sell right away, because an unclear chain of title can prevent you from collecting royalties an operator is otherwise ready to pay."
+   ]
+  },
+  {
+   "heading": "Understanding what you actually inherited",
+   "paragraphs": [
+    "Mineral rights aren't uniform. You might have inherited a full mineral estate, a royalty interest carved out under an existing lease, or a small undivided fraction shared with cousins you've never met. We pull whatever deed, lease and division order records exist and translate them into plain terms, what county and formation the interest sits in, whether it's currently leased, whether any wells are producing, and what your specific decimal share actually is.",
+    "For tracts in the Marcellus fairway across Doddridge, Harrison, Marshall, Wetzel and Tyler counties, this also means checking whether the original lease predates the horizontal boom and, if so, whether it was ever properly updated for a horizontal unit."
+   ]
+  },
+  {
+   "heading": "The case for keeping it",
+   "paragraphs": [
+    "If the interest sits inside an actively producing unit with a reasonably clean decimal and a current lease, ongoing royalty income can be a reasonable asset to hold, particularly for heirs who want to keep land in the family the way prior generations did. The tradeoff is that royalty income from a shale well typically declines over time as the well ages, and holding a small undivided fraction with several co-owners can mean years of paperwork and communication every time the lease or operator changes."
+   ]
+  },
+  {
+   "heading": "The case for selling",
+   "paragraphs": [
+    "Selling makes more sense for heirs who live out of state and don't want to track West Virginia lease renewals and division order updates indefinitely, who inherited alongside several siblings and would rather split cash once than manage co-ownership, or who simply want to convert an uncertain, declining royalty stream into a known amount now. We can walk through both a keep scenario and a sell scenario side by side using your actual documentation before you decide, so the comparison reflects your specific tract rather than a general rule of thumb."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "The estate was never formally probated. Can I still sell?",
+   "answer": "Often yes, depending on how much time has passed and how clear the family record is. We can usually work from an affidavit of heirship rather than requiring a full probate proceeding, and we'll tell you exactly what West Virginia requires once we see what documentation already exists."
+  },
+  {
+   "question": "How do I find out if my inherited interest is currently leased?",
+   "answer": "We check the recorded lease record at the county clerk's office and cross-reference against any division order paperwork you have. If there's an active lease, we can also tell you its royalty terms and whether it's a modern percentage lease or an older flat-rate agreement."
+  },
+  {
+   "question": "Should I keep the interest or sell it?",
+   "answer": "It depends on the unit's activity, how many co-owners you're sharing the interest with, and your own preference for ongoing income versus a lump sum. We'll lay out both paths with real numbers from your documentation rather than pushing one answer."
+  },
+  {
+   "question": "I inherited alongside several siblings. Do we all have to sell together?",
+   "answer": "No. Each heir can decide individually. We can buy one sibling's undivided share while others keep theirs, since co-tenants each control their own fractional interest under West Virginia law."
+  },
+  {
+   "question": "What if I don't know which county the mineral rights are in?",
+   "answer": "That's common with older inherited interests. If you have the original deed, a division order, or even an old royalty check, we can usually identify the county and tract from that starting point."
+  },
+  {
+   "question": "Will the operator keep paying royalties while I decide whether to sell?",
+   "answer": "Generally yes, once your ownership is confirmed on their division order records. Deciding to keep or sell doesn't interrupt payments in the meantime, provided your title documentation is already in order."
+  }
+ ],
+ "status": "written",
+ "wordCount": 892,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Inherited Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,443 @@
+{
+  "notes": "Faithful ICEYE relabel for a West Virginia mineral abstract desk. The donor's black utility header, Instrument Sans and Space Mono typography, full-bleed carousel hero, wide image-card bands, editorial list cadence, black feature panels, and dense footer remain the visual system.",
+  "refhost": "iceye-com",
+  "templates": {
+    "home": "home.html.ref",
+    "about": "about.html.ref",
+    "contact": "contact.html.ref",
+    "index": "index.html.ref",
+    "slug": "slug.html.ref"
+  },
+  "scripts": "strip",
+  "external_css_images": "strip",
+  "chrome": {
+    "header": {
+      "selector": "header.header",
+      "tag": "header",
+      "force_tag": true,
+      "wrap_header": false,
+      "strip_global": [
+        "body > iframe",
+        "body > noscript",
+        "[class*=cookie]",
+        "[id*=cookie]",
+        "[class*=consent]",
+        "#onetrust-consent-sdk",
+        ".grecaptcha-badge",
+        "body > title",
+        "body > meta",
+        "body > link[rel*=icon]",
+        "next-route-announcer"
+      ],
+      "strip": [
+        "#bannerMenuDropdown",
+        "#bannerMenuList .banner-menu__dropdown-content",
+        "#bannerMenuList > .banner-menu__dropdown:nth-child(n+5)",
+        ".header__search-icon--wrapper",
+        "#searchDropdown",
+        ".banner-menu__eu"
+      ],
+      "logo_slots": [
+        ".header-icon"
+      ],
+      "nav_link_selector": "#bannerMenuList > .banner-menu__dropdown > a.banner-menu__link",
+      "nav_append_slot": "#bannerMenuList",
+      "nav_append_class": "navigation-link banner-menu__link sub-heading no-decoration",
+      "mobile_menu_slot": "#menuDropdownWrap",
+      "burger_selector": "#hamburger",
+      "burger_slot": ".header__navigation--wrap",
+      "ensure_nav": true,
+      "repair_css": "header.header{position:relative!important;z-index:10000!important;overflow:visible!important}header.header #navBar{position:absolute!important;z-index:10000!important;inset:0 0 auto!important;min-height:96px!important;overflow:visible!important}header.header .header__navigation--wrap{box-sizing:border-box!important;width:min(1440px,calc(100% - 48px))!important;min-height:96px!important;margin:0 auto!important;overflow:visible!important}header.header #bannerMenuList{display:flex!important;align-items:center!important;gap:clamp(.6rem,1.4vw,1.35rem)!important;overflow:visible!important}header.header #bannerMenuList>.banner-menu__dropdown{display:flex!important;align-items:center!important;min-height:96px!important;margin:0!important}header.header .banner-menu__link{display:flex!important;align-items:center!important;min-height:96px!important;padding:0!important;color:#fff!important;font-size:clamp(.76rem,.9vw,.92rem)!important;white-space:nowrap!important}header.header .rr-wordmark,header.header .rr-wordmark span,header.header .rr-header-explore-toggle,header.header .rr-header-phone{color:#fff!important}header.header .rr-wordmark{display:flex!important;flex-direction:column!important;min-width:178px!important;line-height:1!important}header.header .rr-header-cta{border-color:#33e3c2!important;background:#33e3c2!important;color:#0b1116!important}.rr-nav-dropdown{z-index:10050!important;margin-top:0!important}.rr-nav-dropdown::before{content:''!important;position:absolute!important;left:0!important;right:0!important;top:-22px!important;height:22px!important}.rr-nav-dropdown a{color:#0b1116!important}@media(max-width:1180px){header.header .header__navigation--wrap{width:calc(100% - 32px)!important}header.header #bannerMenuList{gap:.65rem!important}header.header .banner-menu__link{font-size:.72rem!important}header.header .rr-wordmark{min-width:150px!important}}@media(max-width:980px){header.header #bannerMenuList,header.header .rr-header-actions{display:none!important}header.header #hamburger{display:flex!important}}"
+    },
+    "footer": {
+      "selector": "footer.footer",
+      "tag": "footer",
+      "strip": [
+        ".footer__terms--wrap nav",
+        ".footer__terms--wrap a[href*=facebook]",
+        ".footer__terms--wrap a[href*=linkedin]",
+        ".footer__terms--wrap a[href*=youtube]",
+        ".footer__terms--wrap a[href*=instagram]",
+        ".footer__terms--wrap a[href*=x\\.com]",
+        ".footer__lang-switch",
+        "img",
+        "picture",
+        "svg",
+        "video",
+        "source",
+        "canvas",
+        "script",
+        "noscript",
+        "iframe"
+      ],
+      "columns": [
+        {
+          "heading": "Owner Decisions",
+          "links": [
+            ["Owner Situations", "/situations"],
+            ["Interest Types", "/interest-types"],
+            ["Marcellus Shale", "/basins/marcellus-shale"]
+          ]
+        },
+        {
+          "heading": "Record Guides",
+          "links": [
+            ["Owner Resources", "/resources"],
+            ["Mineral Investing", "/investing"],
+            ["1031 Exchange Guides", "/exchange-1031"]
+          ]
+        },
+        {
+          "heading": "West Virginia Records",
+          "links": [
+            ["All West Virginia Areas", "/locations"],
+            ["Morgantown", "/locations/morgantown-wv"],
+            ["Harrison County", "/locations/harrison-county"],
+            ["Wetzel County", "/locations/wetzel-county"]
+          ]
+        },
+        {
+          "heading": "Abstract Desk",
+          "links": [
+            ["About", "/about"],
+            ["How to Sell", "/resources/how-to-sell-mineral-rights"],
+            ["Request a Title Review", "/contact#contact-form"],
+            ["Privacy Policy", "/privacy"],
+            ["Terms", "/terms"]
+          ]
+        }
+      ],
+      "column_selector": ".footer-link-column > section.span-footer",
+      "replace_column_siblings": true,
+      "column_heading_selector": ".footer-first-link",
+      "drop_link_pattern": "Facebook|LinkedIn|Instagram|YouTube|Youtube|Twitter|\\bX\\b|Talent|Press|Cookie|Accessibility|Supplier|Slavery",
+      "tagline_pattern": "ICEYE|All rights reserved",
+      "copyright_year": 2026,
+      "ensure_ia": true,
+      "repair_css": "footer.footer{display:block!important;overflow:hidden!important;background:#0b0f12!important;color:#fff!important}footer.footer .footer__container{box-sizing:border-box!important;width:min(1440px,calc(100% - 48px))!important;margin:0 auto!important;padding:clamp(4rem,7vw,7rem) 0 2.5rem!important}footer.footer .footer-link-column{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:clamp(1.5rem,4vw,5rem)!important}footer.footer .span-footer{display:flex!important;flex-direction:column!important;min-width:0!important;width:auto!important;height:auto!important;margin:0!important;padding:0!important}footer.footer .footer-first-link{display:block!important;margin-bottom:1rem!important;color:#33e3c2!important;font-family:'Space Mono',monospace!important}footer.footer a,footer.footer p{color:#fff!important;text-decoration:none!important}footer.footer .footer__terms--wrap{padding:1.5rem 0!important;border-top:1px solid rgba(255,255,255,.2)!important}footer.footer .rr-footer-map{width:min(1440px,calc(100% - 48px))!important;margin:0 auto 3rem!important;border:1px solid rgba(51,227,194,.55)!important}@media(max-width:820px){footer.footer .footer-link-column{grid-template-columns:repeat(2,minmax(0,1fr))!important}}@media(max-width:520px){footer.footer .footer__container,footer.footer .rr-footer-map{width:calc(100% - 32px)!important}footer.footer .footer-link-column{grid-template-columns:1fr!important}}"
+    }
+  },
+  "purge": {
+    "brand": [
+      "\\bICEYE\\b",
+      "iceye\\.com",
+      "www\\.iceye\\.com"
+    ],
+    "content": [
+      "satellite",
+      "SAR data",
+      "synthetic aperture radar",
+      "natural catastrophe",
+      "Flood intelligence",
+      "Mission systems",
+      "Sovereign intelligence",
+      "constellation",
+      "wildfire",
+      "hurricane",
+      "insurance solutions",
+      "Government solutions",
+      "NewSpace",
+      "Finland"
+    ],
+    "strip_selectors": [
+      "[class*=cookie]",
+      "[id*=cookie]",
+      "[class*=consent]",
+      ".grecaptcha-badge",
+      ".modal",
+      ".latest-news__load-more"
+    ],
+    "script_markers": [
+      "dataLayer",
+      "googletagmanager",
+      "recaptcha",
+      "Cookie",
+      "mouseOverBannerMenu"
+    ],
+    "social_pattern": "facebook\\.com/iceye|linkedin\\.com/company/iceye|x\\.com/iceye|youtube\\.com/c/ICEYE|instagram\\.com/iceye"
+  },
+  "buttons": {
+    "class": "btn btn__solid--dark"
+  },
+  "forms": {
+    "form_class": "rr-contact-form",
+    "input_class": "rr-contact-control",
+    "group_class": "rr-contact-field",
+    "wrap_class": "rr-contact-form-shell"
+  },
+  "pages": {
+    "legal_template": "slug",
+    "home": {
+      "signature": [
+        ".carousel-hero",
+        "#hs_cos_wrapper_widget_1749641566347 .content-background-image-card",
+        ".full-banner-text-bg-img",
+        ".latest-news"
+      ],
+      "semantic_title_selector": ".carousel-hero .carousel-slide:first-child h1",
+      "strip": [
+        ".carousel-navigation__pause",
+        ".latest-news__load-more",
+        ".latest-news__main-title > a",
+        ".latest-news__item .kicker",
+        ".icon-description__column img + br"
+      ],
+      "sections": [
+        {
+          "selector": ".carousel-hero .carousel-slide",
+          "action": "hero-all",
+          "canonical_h1": true,
+          "fields": {
+            "heading": "h1,h2",
+            "body": "p.sub-heading",
+            "cta": "a.btn",
+            "background": ".absolute-background"
+          }
+        },
+        {
+          "selector": "#hs_cos_wrapper_widget_1749641566347 .content-background-image-card",
+          "action": "card-grid",
+          "source": "situations",
+          "limit": 2,
+          "heading": "h2",
+          "card": "a.default-card-height",
+          "clear_selector": "a.default-card-height",
+          "card_fields": {
+            "title": "h3.sub-heading",
+            "sub": ".content-background-image-card__content p",
+            "image": "img",
+            "_link_card": true
+          },
+          "view_all": ["Review All Owner Situations", "/situations"]
+        },
+        {
+          "selector": "#hs_cos_wrapper_widget_1696854569496 .content-background-image-card",
+          "action": "card-grid",
+          "source": "interest-types",
+          "limit": 4,
+          "heading": "h2",
+          "card": "a.default-card-height",
+          "clear_selector": "a.default-card-height",
+          "card_fields": {
+            "title": "h3.sub-heading",
+            "sub": ".content-background-image-card__content p",
+            "image": "img",
+            "_link_card": true
+          },
+          "view_all": ["Compare All Interest Types", "/interest-types"]
+        },
+        {
+          "selector": "#hs_cos_wrapper_module_1727785658051 .full-banner-text-bg-img",
+          "action": "blurb",
+          "copy": "home_intro",
+          "heading": "h2",
+          "body": ".module-content-wrapper p.no-margin",
+          "eyebrow": "p.kicker",
+          "eyebrow_text": "COUNTY RECORD FIRST",
+          "image": "img",
+          "strip_in_section": [".flex__justify--start.block-margin-top--text--big"],
+          "link": ["About the Abstract Desk", "/about"]
+        },
+        {
+          "selector": ".latest-news",
+          "action": "card-grid",
+          "source": "resources",
+          "limit": 6,
+          "heading": ".latest-news__main-title h2",
+          "card": ".latest-news__item",
+          "clear_selector": ".latest-news__item",
+          "card_fields": {
+            "title": ".latest-news__title",
+            "image": "img",
+            "_link_card": true
+          },
+          "kill_in_card": [
+            ".kicker"
+          ],
+          "view_all": ["Open All Record Guides", "/resources"]
+        },
+        {
+          "selector": ".icon-description",
+          "action": "card-grid",
+          "source": "locations",
+          "limit": 4,
+          "heading": "h3.sub-heading",
+          "card": ".icon-description__column",
+          "clear_selector": ".icon-description__column",
+          "card_fields": {
+            "title": "p.kicker",
+            "sub": ".icon-description__column--content--desc",
+            "image": "img",
+            "_link_card": true
+          },
+          "view_all": ["Open All West Virginia Areas", "/locations"]
+        },
+        {
+          "selector": "#hs_cos_wrapper_module_1727785658051 .full-banner-text-bg-img",
+          "action": "clone-band",
+          "clone_of": "#hs_cos_wrapper_module_1727785658051 .full-banner-text-bg-img",
+          "insert_after": ".icon-description",
+          "inner": "blurb",
+          "copy": "home_investing",
+          "heading": "h2",
+          "body": ".module-content-wrapper p.no-margin",
+          "strip_in_band": ["p.kicker", ".flex__justify--start.block-margin-top--text--big", "a.btn"],
+          "link": ["Review Mineral Investing", "/investing"]
+        },
+        {
+          "selector": "#hs_cos_wrapper_module_1727785658051 .full-banner-text-bg-img",
+          "action": "clone-band",
+          "clone_of": "#hs_cos_wrapper_module_1727785658051 .full-banner-text-bg-img",
+          "insert_after": "[data-rr-band=home_investing]",
+          "inner": "blurb",
+          "copy": "home_exchange",
+          "heading": "h2",
+          "body": ".module-content-wrapper p.no-margin",
+          "strip_in_band": ["p.kicker", ".flex__justify--start.block-margin-top--text--big", "a.btn"],
+          "link": ["Review 1031 Exchange Guides", "/exchange-1031"]
+        },
+        {
+          "selector": "#hs_cos_wrapper_widget_1749641566347 .content-background-image-card",
+          "action": "clone-band",
+          "clone_of": "#hs_cos_wrapper_widget_1749641566347 .content-background-image-card",
+          "insert_after": "#hs_cos_wrapper_widget_1696854569496 .content-background-image-card",
+          "inner": "card-grid",
+          "source": "basins",
+          "limit": 2,
+          "strip_in_band": [".rr-view-all"],
+          "heading": "h2",
+          "card": "a.default-card-height",
+          "clear_selector": "a.default-card-height",
+          "card_fields": {
+            "title": "h3.sub-heading",
+            "sub": ".content-background-image-card__content p",
+            "image": "img",
+            "_link_card": true
+          },
+          "view_all": ["Review West Virginia Shale Records", "/basins"]
+        }
+      ],
+      "carousels": [
+        {
+          "selector": ".carousel-hero",
+          "type": "horizontal",
+          "track": ".carousel-slider",
+          "slides": ".carousel-slide",
+          "prev": ".carousel-navigation__prev",
+          "next": ".carousel-navigation__next",
+          "visible": 1
+        }
+      ],
+      "repair_css": ".carousel-hero{position:relative!important;min-height:clamp(40rem,72vw,58rem)!important;overflow:hidden!important;background:#0b1116!important}.carousel-hero .carousel-slider{display:flex!important;width:100%!important}.carousel-hero .carousel-slide{position:relative!important;display:flex!important;flex:0 0 100%!important;min-width:100%!important;min-height:clamp(40rem,72vw,58rem)!important;overflow:hidden!important;background-image:url('/ours/pages/mineral-rights-pages-home-sellmineralrightswestvirginia-com.jpg')!important;background-size:cover!important;background-position:center!important}.carousel-hero .carousel-slide::after{content:''!important;position:absolute!important;inset:0!important;z-index:1!important;background:linear-gradient(90deg,rgba(0,0,0,.82),rgba(0,0,0,.24))!important}.carousel-hero .carousel-slide .module-container{position:relative!important;z-index:2!important}.carousel-hero h1,.carousel-hero h2{display:block!important;max-width:12ch!important;color:#fff!important;white-space:normal!important;word-break:normal!important;overflow-wrap:normal!important}.carousel-navigation{z-index:5!important}.content-background-image-card,.latest-news,.icon-description{position:relative!important;overflow:visible!important}.content-background-image-card .flex__wrap,.latest-news__items-container,.icon-description .row-fluid{height:auto!important;overflow:visible!important}.content-background-image-card a.default-card-height{min-width:0!important;overflow:hidden!important}.content-background-image-card a.default-card-height img{width:100%!important;height:100%!important;object-fit:cover!important}.latest-news__item{display:block!important}.latest-news__item .flex{align-items:center!important}.icon-description__column img{display:block!important;width:100%!important;max-width:none!important;height:16rem!important;margin:0 0 1.4rem!important;object-fit:cover!important}.full-banner-text-bg-img{min-height:clamp(34rem,55vw,48rem)!important}.full-banner-text-bg-img img{width:100%!important;height:100%!important;object-fit:cover!important}@media(max-width:767px){.carousel-hero,.carousel-hero .carousel-slide{min-height:39rem!important}.icon-description .row-fluid{display:grid!important;grid-template-columns:1fr!important}.icon-description__column img{height:13rem!important}}"
+    },
+    "index": {
+      "signature": [
+        "section.page-hero",
+        "section.page-title-content-block",
+        "section.content-background-image-card"
+      ],
+      "hero_heading": "section.page-hero h1",
+      "hero_image": "section.page-hero .absolute-background img",
+      "hero_meta": "section.page-hero p.sub-heading",
+      "intro": {
+        "selector": "section.page-title-content-block",
+        "heading": "h2"
+      },
+      "grid": "section.content-background-image-card .side-scroll-mobile",
+      "card": "a.mobile-scroll-item",
+      "card_fields": {
+        "title": "h3.sub-heading",
+        "sub": ".content-background-image-card__content p.no-margin",
+        "image": "img",
+        "_link_card": true
+      },
+      "strip": [
+        "section.latest-news",
+        "section.full-banner-text-bg-img-form"
+      ],
+      "repair_css": "section.page-hero{min-height:clamp(30rem,52vw,45rem)!important;overflow:hidden!important}section.page-hero img{width:100%!important;height:100%!important;object-fit:cover!important}section.page-hero h1{display:block!important;max-width:14ch!important;white-space:normal!important;word-break:normal!important}.content-background-image-card .side-scroll-mobile{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;height:auto!important;overflow:visible!important}.content-background-image-card a.mobile-scroll-item{display:flex!important;width:auto!important;min-width:0!important;overflow:hidden!important}.content-background-image-card a.mobile-scroll-item img{width:100%!important;height:100%!important;object-fit:cover!important}@media(max-width:720px){.content-background-image-card .side-scroll-mobile{grid-template-columns:1fr!important}}"
+    },
+    "slug": {
+      "signature": [
+        "section.page-hero",
+        "#hs_cos_wrapper_module_16980666021538 section.page-title-content-block"
+      ],
+      "title": "section.page-hero h1",
+      "hero_image": "section.page-hero .absolute-background img",
+      "hero_meta": "section.page-hero p.sub-heading",
+      "prose": "#hs_cos_wrapper_module_16980666021538 section.page-title-content-block",
+      "simple_prose": "#hs_cos_wrapper_module_16980666021538 section.page-title-content-block",
+  "strip": [
+    "section.page-hero .flex.flex__wrap.flex-gap-small.block-margin-top--small",
+    "section.icon-gallery",
+        "section.quotes-row",
+        "section.downloads-single",
+        "section.latest-news",
+        "section.full-banner-text-bg-img-form",
+        "section.full-banner-text-bg-img"
+      ],
+      "skip_related_in_prose": true,
+      "skip_detail_cta_in_prose": true,
+      "repair_css": "section.page-hero{position:relative!important;min-height:clamp(30rem,52vw,46rem)!important;overflow:hidden!important}section.page-hero .absolute-background,section.page-hero picture,section.page-hero img{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;object-fit:cover!important}section.page-hero h1{display:block!important;width:auto!important;max-width:15ch!important;white-space:normal!important;word-break:normal!important;overflow-wrap:normal!important}#hs_cos_wrapper_module_16980666021538 section.page-title-content-block{display:block!important;width:min(1120px,calc(100vw - 64px))!important;max-width:none!important;margin:0 auto!important;color:#0b1116!important}"
+    },
+    "about": {
+      "signature": [
+        "section.page-hero",
+        "section.full-banner-text-bg-img"
+      ],
+      "title": "section.page-hero h1",
+      "title_as_h1": true,
+      "hero_image": "section.page-hero .absolute-background img",
+      "hero_meta": "section.page-hero p.sub-heading",
+      "sections": [
+        {
+          "selector": "section.page-hero",
+          "action": "relabel",
+          "ops": [
+            {"sel": "p.sub-heading", "text": "County deed books, severance clauses, heirship branches, paid decimals, shale evidence, written terms, and recorded conveyances stay on one West Virginia abstract."}
+          ]
+        }
+      ],
+  "strip": [
+    "main section:not(.page-hero):not(.full-banner-text-bg-img)",
+    "section.page-hero .flex.flex__wrap.flex-gap-small.block-margin-top--small"
+  ],
+      "block_template": "section.full-banner-text-bg-img",
+      "block_remove_selector": "section.full-banner-text-bg-img",
+      "block_host": "main",
+      "hero_anchor": "section.page-hero",
+      "block_heading": "h2",
+      "block_body": ".module-content-wrapper p.no-margin",
+      "block_image": "img",
+      "block_image_tax": "situations",
+      "block_link": "a.btn",
+      "block_link_href": "/contact#contact-form",
+      "block_link_text": "Request a WV Title Review",
+      "repair_css": "section.page-hero{min-height:clamp(32rem,55vw,48rem)!important;overflow:hidden!important}section.page-hero img{width:100%!important;height:100%!important;object-fit:cover!important}section.page-hero h1{display:block!important;max-width:15ch!important;white-space:normal!important;word-break:normal!important}section.full-banner-text-bg-img{min-height:clamp(32rem,50vw,44rem)!important}section.full-banner-text-bg-img img{width:100%!important;height:100%!important;object-fit:cover!important}"
+    },
+    "contact": {
+      "signature": [
+        "section.page-title-content-block",
+        "section.iceye-forms"
+      ],
+      "semantic_title_selector": "section.page-title-content-block h1",
+      "strip": [
+        "section.hero-light-background",
+        "section.iceye-forms form",
+        "section.iceye-forms [data-hs-forms-root]"
+      ],
+      "sections": [
+        {
+          "selector": "section.page-title-content-block",
+          "action": "relabel",
+          "ops": [
+            {"sel": "h1", "text": "Request a West Virginia Mineral Title Review"},
+            {"sel": "h3", "text": "Share the county, owner name, interest type, producing status, and the records already available. The abstract desk will identify the next useful check."}
+          ]
+        }
+      ],
+      "form_slot": "section.iceye-forms",
+      "repair_css": "section.page-title-content-block{box-sizing:border-box!important;width:min(1180px,calc(100% - 48px))!important;margin:0 auto!important;padding:clamp(7.25rem,10vw,9rem) 0 clamp(2rem,4vw,3rem)!important}section.page-title-content-block .page-title-content-block--rich-text{box-sizing:border-box!important;width:min(980px,100%)!important;max-width:980px!important;margin:0!important}section.page-title-content-block h1{font-size:clamp(3rem,5.7vw,6rem)!important;line-height:.94!important;max-width:18ch!important;letter-spacing:-.04em!important}section.page-title-content-block h3{max-width:52rem!important;margin-top:1.5rem!important;font-size:clamp(1.05rem,1.7vw,1.35rem)!important;line-height:1.5!important}section.iceye-forms{display:block!important;box-sizing:border-box!important;width:min(1180px,calc(100% - 48px))!important;min-height:0!important;margin:0 auto clamp(5rem,10vw,9rem)!important;padding:clamp(2rem,5vw,4rem)!important;background:#0b1116!important;color:#fff!important}.rr-contact-form{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:1rem!important}.rr-contact-field{display:block!important}.rr-contact-field:has(textarea){grid-column:1/-1!important}.rr-contact-control{box-sizing:border-box!important;width:100%!important;min-height:3.75rem!important;padding:1rem!important;border:1px solid rgba(255,255,255,.45)!important;border-radius:0!important;background:#fff!important;color:#0b1116!important;font-family:'Instrument Sans',Arial,sans-serif!important;font-size:1rem!important}.rr-contact-form textarea.rr-contact-control{min-height:10rem!important;resize:vertical!important}.rr-contact-form button{grid-column:1/-1!important;justify-self:start!important;border-color:#33e3c2!important;background:#33e3c2!important;color:#0b1116!important}@media(max-width:720px){section.page-title-content-block{padding-top:7rem!important}section.page-title-content-block h1{font-size:clamp(2.6rem,12vw,4.4rem)!important;max-width:12ch!important}.rr-contact-form{grid-template-columns:1fr!important}.rr-contact-field:has(textarea),.rr-contact-form button{grid-column:1!important}}"
+    }
+  }
+}

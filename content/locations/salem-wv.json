@@ -1,0 +1,67 @@
+{
+ "slug": "salem-wv",
+ "title": "Sell Mineral Rights in Salem, WV",
+ "type": "city",
+ "kind": "city",
+ "county": "Harrison",
+ "group": "Northern Panhandle & North Central",
+ "primaryKeyword": "sell mineral rights salem wv",
+ "seo": null,
+ "status": "written",
+ "metaTitle": "Sell Mineral Rights in Salem, WV",
+ "metaDescription": "Salem, Harrison County mineral owners: legacy production, rural family farm tracts, and courthouse title verification through Clarksburg.",
+ "heroLead": "Salem is a small Harrison County town whose surrounding farmland carries a production history spanning multiple drilling eras.",
+ "intro": [
+  "Harrison County's long oil and gas history touches Salem's rural acreage, where older wellbores and traditional family farm ownership are more common than the large modern horizontal units found in more heavily developed counties nearby."
+ ],
+ "sections": [
+  {
+   "heading": "Multiple drilling eras on the same acreage",
+   "paragraphs": [
+    "Some Salem-area tracts carry wellbores from several distinct production eras, each under its own lease with its own terms. Confirming which lease currently governs — and whether older instruments were properly released — is worth doing before assuming any single document controls your interest."
+   ]
+  },
+  {
+   "heading": "Traditional family farm ownership",
+   "paragraphs": [
+    "Salem-area mineral interests are typically held within families that have owned the surrounding farmland for generations, with ownership splitting further at each inheritance. The Harrison County Courthouse in Clarksburg holds the records needed to confirm exactly what percentage a given heir currently holds."
+   ]
+  },
+  {
+   "heading": "What older Salem-area lease language sometimes omits",
+   "paragraphs": [
+    "Leases signed decades ago near Salem sometimes predate standard clauses that are now common — provisions covering shut-in royalty, delay rentals, or specific pooling authority, for instance. Their absence doesn't necessarily invalidate the lease, but it can leave real ambiguity about how certain situations, like a temporarily shut-in well, should be handled.",
+    "Reading the actual lease language against current production status is worth doing rather than assuming a modern lease's standard terms automatically apply."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How many production eras might a Salem-area tract have seen?",
+   "answer": "Potentially several, given Harrison County's long history; older shallow wells and any newer leasing activity should both be checked."
+  },
+  {
+   "question": "Is Salem an active area for new leasing?",
+   "answer": "Activity here has generally been more limited than in more actively developed counties nearby, with legacy production more typical."
+  },
+  {
+   "question": "How do I confirm my share of a Salem family tract?",
+   "answer": "A courthouse records check tracing the deed and will books at the Harrison County Courthouse establishes your current percentage, and confirms whether any prior conveyances or unreleased older leases still affect the tract today."
+  },
+  {
+   "question": "Does an older Salem-area lease missing a shut-in clause create a problem?",
+   "answer": "It can create ambiguity about how a temporarily shut-in well should be handled; reviewing the actual lease language is the way to resolve it."
+  },
+  {
+   "question": "How do I know if my Salem-area well is still actively producing?",
+   "answer": "West Virginia production records, cross-referenced against your lease and any division orders, will show current well status; a title or landman review can confirm this for your specific tract."
+  }
+ ],
+ "wordCount": 433,
+ "image": {
+  "src": "/images/locations/sell-mineral-rights-salem-wv.jpg",
+  "alt": "Sell Mineral Rights in Salem, WV location",
+  "width": 1600,
+  "height": 1000
+ }
+}

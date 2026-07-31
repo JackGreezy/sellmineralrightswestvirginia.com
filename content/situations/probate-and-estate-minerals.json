@@ -1,0 +1,76 @@
+{
+ "slug": "probate-and-estate-minerals",
+ "title": "Minerals in Probate & Estates",
+ "type": "situation",
+ "note": "executor/estate sale mechanics",
+ "metaTitle": "Selling Mineral Rights Through a West Virginia Estate",
+ "metaDescription": "Executors handling West Virginia mineral rights in probate: we work directly with fiduciary deeds, estate documentation and county clerk requirements to close.",
+ "heroLead": "An executor selling mineral rights out of a West Virginia estate is working under different rules than a private owner, and the deed itself has to reflect that authority correctly.",
+ "intro": [
+  "When mineral rights are part of a West Virginia estate, the sale process runs through the executor or administrator rather than the eventual heirs directly, and the deed conveying the interest has to be a proper fiduciary deed referencing the executor's authority under the will or the court's letters of administration. We work with executors regularly on exactly this kind of sale, whether the estate needs to liquidate the interest to pay debts and expenses, or the will simply directs the minerals be sold and proceeds distributed among beneficiaries.",
+  "The county clerk's office where the estate is being probated, and often the county where the minerals themselves sit if it's a different county, both come into play, and we handle that coordination directly."
+ ],
+ "sections": [
+  {
+   "heading": "What authority the executor actually needs",
+   "paragraphs": [
+    "Before we can close on an estate sale, we need to see the letters testamentary or letters of administration issued by the county commission, along with the will if one exists, confirming the executor's authority to sell real property, including mineral interests, on behalf of the estate. Some wills grant this authority explicitly; others require the executor to petition the court for permission to sell if the will is silent on the point. We'll tell you early which situation applies based on the documents you have.",
+    "If the estate is still open and multiple beneficiaries are named, we also confirm whether the will directs a sale or simply distributes the interest, since those are different transactions with different paperwork."
+   ]
+  },
+  {
+   "heading": "Identifying exactly what the estate owns",
+   "paragraphs": [
+    "Estates sometimes include mineral interests the decedent never fully catalogued, particularly small fractional shares inherited from an earlier generation that were never actively managed. Part of our work on an estate sale is confirming the full scope of what's actually in the estate, cross-referencing the decedent's known deeds against county records to make sure nothing is left out of the inventory, and nothing is claimed that the decedent didn't actually still own at death.",
+    "This matters in West Virginia particularly, where a decedent may have held interests across several counties acquired through different branches of the family, not all of which show up on a simple asset list."
+   ]
+  },
+  {
+   "heading": "Selling before versus after the estate closes",
+   "paragraphs": [
+    "Some executors prefer to sell mineral interests while the estate is still open, converting the asset to cash before final distribution to beneficiaries, which can simplify a distribution among several heirs who don't want to co-own a fractional royalty interest going forward. Others distribute the interest to heirs first, and each heir decides individually whether to sell their own resulting fractional share. Both approaches work, and which one fits depends on the will's language and the family's preference.",
+    "We can move at whichever stage makes sense for your estate, provided the deed reflects who actually holds authority to sign at the time of closing."
+   ]
+  },
+  {
+   "heading": "Documentation that keeps an estate sale moving",
+   "paragraphs": [
+    "The core documents are the letters testamentary or administration, the will if applicable, a certified copy of the death certificate, and whatever deed or lease records establish the decedent's original ownership. Having these ready before we start the county clerk research shortens the timeline considerably, especially on multi-county estates where each county's records have to be checked and recorded separately."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Can an executor sell mineral rights without heir approval?",
+   "answer": "It depends on the will's language and whether it grants the executor authority to sell real property, including minerals, without additional consent. Some estates require a court petition first. We'll confirm which applies from your specific documents."
+  },
+  {
+   "question": "What if the mineral rights weren't listed in the original estate inventory?",
+   "answer": "We can help confirm the full scope of the decedent's mineral ownership by cross-referencing county deed and lease records, which sometimes turns up interests that weren't fully catalogued at the start of probate."
+  },
+  {
+   "question": "Do we need to wait until probate closes to sell?",
+   "answer": "Not necessarily. Many estates sell mineral interests while probate is still open, using the executor's authority under the letters testamentary. We'll confirm the right sequence based on your estate's specific paperwork."
+  },
+  {
+   "question": "What is a fiduciary deed and why does it matter here?",
+   "answer": "It's the type of deed an executor or administrator uses to convey estate property, referencing their court-granted authority rather than personal ownership. Using the correct deed form is required for the transfer to be valid and properly recorded."
+  },
+  {
+   "question": "The decedent owned mineral rights in more than one county. Does that complicate things?",
+   "answer": "It adds steps but not necessarily much time. We research and record in each relevant county clerk's office, coordinating so the whole estate's mineral interests can typically close together."
+  },
+  {
+   "question": "Can proceeds from a mineral sale be used to pay estate debts?",
+   "answer": "Often yes, provided the executor's authority under the will or the court's order covers using estate assets to satisfy debts and expenses. That's a question for the estate's attorney, but we can move quickly once the executor confirms the plan."
+  }
+ ],
+ "status": "written",
+ "wordCount": 876,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Minerals in Probate & Estates mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

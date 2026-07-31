@@ -1,0 +1,88 @@
+{
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use | WV Mineral Rights Site",
+ "metaDescription": "Terms governing use of this website, including the educational nature of its content on West Virginia mineral rights and title matters.",
+ "heroLead": "These terms explain how the information on this site is meant to be used, and the limits on what it can substitute for, particularly around title and tax matters specific to your own situation.",
+ "intro": [
+  "This website provides general information about mineral and royalty rights in West Virginia, including topics like division orders, royalty statements, mineral deeds, and heirship, along with a way to request an offer on a mineral interest you own. Using the site means agreeing to the terms below.",
+  "Nothing on this site should be treated as a substitute for advice from a licensed attorney, accountant, or other professional familiar with your specific situation."
+ ],
+ "sections": [
+  {
+   "heading": "Educational content, not professional advice",
+   "paragraphs": [
+    "The guides and articles on this site describe general concepts related to West Virginia mineral rights, such as how title chains are typically established, how royalty statements are typically structured, and how flat-rate leases and heirship issues commonly arise. This content is provided for general understanding only and does not constitute legal, tax, or financial advice specific to your circumstances. For questions about your own title, estate, or tax situation, consult your own attorney or CPA.",
+    "This is especially true for anything touching probate or estate administration, since specific procedures and requirements can vary by county and by the size and structure of the estate involved."
+   ]
+  },
+  {
+   "heading": "No promised outcome",
+   "paragraphs": [
+    "Any discussion of value on this site is general in nature and not a specific offer. An actual offer on your mineral or royalty interest is made only after we review your specific documents and title, and any figure discussed before that review is a preliminary estimate only, not a commitment.",
+    "We also do not promise a specific closing timeline in general content on this site, since the timeline for any individual transaction depends on the title work and curative steps that particular file requires."
+   ]
+  },
+  {
+   "heading": "Accuracy of information",
+   "paragraphs": [
+    "We aim to keep the general information on this site accurate and current, but laws, county recording practices, and industry conventions can change, and we cannot guarantee that every detail reflects the most recent developments at the time you read it. If a specific answer matters to a decision you are making, confirm it with a qualified professional or the relevant county office.",
+    "County-specific details, such as how a particular clerk's office handles heirship documentation or digitized records, can also vary and change over time. Where our general guides describe common practices, treat them as a starting point for your own research rather than a substitute for confirming the current procedure directly with that office."
+   ]
+  },
+  {
+   "heading": "Use of the site",
+   "paragraphs": [
+    "You agree to use this site for its intended purpose of learning about mineral rights topics and, if you choose, requesting an offer on an interest you own. Content on this site should not be copied or republished without permission.",
+    "If you submit information through a form on this site, you are representing that the information is accurate to the best of your knowledge, particularly details about the mineral or royalty interest you are describing."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is the information on this site legal or tax advice?",
+   "answer": "No. It is general educational information only. For advice specific to your situation, consult your own attorney or CPA."
+  },
+  {
+   "question": "Does reading this site or filling out a form commit me to selling?",
+   "answer": "No. Nothing on this site obligates you to sell your mineral or royalty interest. Any transaction proceeds only after you review and agree to a specific offer."
+  },
+  {
+   "question": "Can I rely on the value ranges discussed in the articles for my own tract?",
+   "answer": "General ranges are meant to illustrate how value is typically determined, not to estimate your specific interest. Actual value depends on your tract's production history, title status, and lease terms."
+  },
+  {
+   "question": "Who do I contact with questions about these terms?",
+   "answer": "You can reach out through the contact page with any questions about how this site's content or offer process works."
+  },
+  {
+   "question": "Do these terms change over time?",
+   "answer": "They may be updated periodically to reflect changes in how the site operates or in general industry and legal information. Checking this page periodically is a reasonable way to stay current if you use the site regularly."
+  },
+  {
+   "question": "Does using this site create any kind of professional relationship?",
+   "answer": "No. Browsing this site or reading its guides does not create an attorney-client, accountant-client, or similar professional relationship. Such a relationship would only arise through your own separate engagement with a licensed professional."
+  },
+  {
+   "question": "What law governs these terms?",
+   "answer": "These terms are intended to be interpreted under general principles applicable to a West Virginia-focused informational website, and any specific legal question about them should be directed to your own attorney."
+  },
+  {
+   "question": "What if a section of these terms is found unenforceable?",
+   "answer": "The remaining sections continue to apply. An unenforceable provision does not invalidate the rest of these terms."
+  },
+  {
+   "question": "Does this site charge any fee to browse its content or request an offer?",
+   "answer": "No. The educational content is free to browse, and requesting an offer through the site carries no fee or obligation on your part."
+  }
+ ],
+ "wordCount": 860,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

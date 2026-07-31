@@ -1,0 +1,72 @@
+{
+ "slug": "documents-checklist",
+ "title": "Documents You Need to Sell",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Documents Needed to Sell WV Mineral Rights",
+ "metaDescription": "The deeds, statements, and estate records a West Virginia mineral owner should gather before selling, and where each one is typically found.",
+ "heroLead": "Gathering the right paper before you ever talk to a buyer is the single fastest way to move a West Virginia mineral sale through closing without a title delay.",
+ "intro": [
+  "A mineral sale in West Virginia moves at the speed of the title work behind it, and the title work moves at the speed of the documents an owner can produce. Some of what a buyer needs will already be in a filing cabinet or a shoebox of family papers. The rest usually has to be pulled from a county clerk's office, and knowing which document lives where before you start saves real time.",
+  "This checklist covers the categories of records that come up in nearly every West Virginia mineral file, organized roughly in the order a title examiner would want to see them."
+ ],
+ "sections": [
+  {
+   "heading": "The deed that created your interest",
+   "paragraphs": [
+    "Start with whatever deed brought the mineral interest into your family, or into you directly. In many West Virginia counties this is a severance deed from a coal or timber era transaction, sometimes over a century old, that split the mineral estate from the surface. If you do not have a copy, the county clerk's office where the land sits can usually pull it from the deed book and page reference, and increasingly some counties have digitized indexes searchable online.",
+    "If your interest passed to you by inheritance rather than by direct purchase, you will also need whatever recorded documents establish that chain, which leads into the estate records below."
+   ]
+  },
+  {
+   "heading": "Estate and heirship records",
+   "paragraphs": [
+    "If the mineral interest passed through a deceased relative's estate, a buyer's title examiner will look for a recorded will, letters of administration, an order of distribution, or in smaller estates an affidavit of heirship. West Virginia counties vary in how strictly they require formal probate for small mineral interests, and a fair number of family tracts have been passed down informally for two or three generations without ever being run through a courthouse. That is common, and it is fixable, but it is also the single biggest source of delay in a sale, because a buyer's title opinion cannot recognize an owner the courthouse record does not show.",
+    "If your ownership is undivided among several living heirs, gather names, addresses, and approximate shares for every co-owner you know of, even if you are the one initiating the sale. Undivided interests are frequently sold interest by interest, and having the full heir picture up front avoids a second round of research later."
+   ]
+  },
+  {
+   "heading": "Lease and payment history",
+   "paragraphs": [
+    "If your minerals are currently leased or producing, gather the lease itself, your most recent division order, and as many royalty statements as you can find, ideally a year or more of history. These documents tell a buyer your current decimal interest, the operator paying you, and the production trend on the well, all of which shape how a title examiner and a buyer approach valuation.",
+    "If your interest is leased but not yet producing, the lease alone, along with any bonus payment record, is still useful and worth pulling together."
+   ]
+  },
+  {
+   "heading": "Tax and identification records",
+   "paragraphs": [
+    "Have your most recent mineral property tax statement if you receive one, since many West Virginia counties tax severed mineral interests separately from surface land and the parcel or account number on that statement helps a title examiner locate your interest quickly. You will also want basic identification for closing purposes, and if the interest sits within an estate that is still administering, contact information for the executor or administrator of record.",
+    "None of these records need to be perfectly organized before you start a conversation about a sale. A title examiner's job is precisely to sort out an incomplete file, and most West Virginia mineral files arrive with at least one gap. What matters is bringing whatever you actually have rather than waiting until you believe the file is complete."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What if I cannot find my original deed?",
+   "answer": "The county clerk's office in the county where the minerals sit can typically locate a certified copy from the deed book, and a title company doing a sale will often pull this record directly during their own search regardless of what you provide."
+  },
+  {
+   "question": "Do I need every heir's signature to sell my share of an undivided interest?",
+   "answer": "Generally no. You can typically sell your own undivided fractional share without the other heirs joining the transaction, though the buyer will still want documentation showing how your share was established."
+  },
+  {
+   "question": "What if the estate my interest passed through was never formally probated?",
+   "answer": "This is common in West Virginia and can usually be resolved with an affidavit of heirship or a late probate filing, though the specific fix depends on how long ago the death occurred and how many heirs are involved. A title examiner working the file will identify exactly what curative step is needed."
+  },
+  {
+   "question": "Is a royalty statement required if my minerals are not currently leased?",
+   "answer": "No. Royalty statements only apply to producing interests. For unleased or non-producing minerals, the deed and estate chain are the documents that matter most."
+  },
+  {
+   "question": "What if I only have partial records and cannot find the rest?",
+   "answer": "Start with what you have and let a title professional or buyer identify the specific gaps. Most missing pieces, whether a deed page, a probate order, or an old lease, can be located at the county clerk's office once the tract and prior owners are identified."
+  }
+ ],
+ "wordCount": 929,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-documents-checklist-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Documents You Need to Sell mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

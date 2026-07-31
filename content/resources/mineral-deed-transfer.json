@@ -1,0 +1,66 @@
+{
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deeds and Title Transfer in WV",
+ "metaDescription": "How mineral deeds work in West Virginia, what makes a transfer valid, and the recording steps that protect your title after a sale or inheritance.",
+ "heroLead": "A mineral deed is a short instrument that carries the full weight of a title chain behind it, and getting the wording and recording right is what protects an owner decades later.",
+ "intro": [
+  "Most people encounter a mineral deed for the first time either when they inherit an interest and go looking for the original severance document, or when they sell and see the new deed drafted for the closing. In both cases the deed is doing the same essential job: creating a permanent, recorded statement of who owns what, so that the next person who searches the title, whether an heir, a buyer, or an operator's land department, can trust the record.",
+  "This guide covers how mineral deeds function in West Virginia, the difference between a mineral deed and a lease, and what happens to your title when a deed is recorded correctly versus when it is not."
+ ],
+ "sections": [
+  {
+   "heading": "What a mineral deed actually conveys",
+   "paragraphs": [
+    "A mineral deed transfers ownership of the mineral estate, or some fractional or depth-limited portion of it, separately from the surface. In West Virginia, mineral estates were commonly severed from surface ownership generations ago during the coal and early gas era, which is why so many owners today hold minerals under land they do not own the surface of, or conversely own surface land under which someone else holds the minerals. A deed should specify the exact interest conveyed, whether that is a full undivided interest, a fractional share, all depths or a limited depth interval, and whether executive rights, the right to negotiate and sign future leases, transfer along with it.",
+    "This is different from a lease, which grants a company the right to explore and produce for a term of years in exchange for bonus and royalty, without transferring ownership of the mineral estate itself. A deed changes who owns the minerals; a lease changes who can drill them."
+   ]
+  },
+  {
+   "heading": "Recording and why it matters",
+   "paragraphs": [
+    "A mineral deed should be recorded in the county clerk's office of the county where the minerals sit, which places it in the public record and protects the new owner's priority against later claims. An unrecorded deed can still be valid between the parties who signed it, but it leaves the transfer invisible to anyone searching the courthouse record later, including an operator's land department trying to issue a division order or a future buyer's title examiner.",
+    "This is part of why some West Virginia families end up with fractured, informal title: a deed or a distribution among heirs happened in fact but was never recorded, and decades later no one can locate the paper trail that would let a title examiner confirm ownership without additional curative work."
+   ]
+  },
+  {
+   "heading": "Inherited interests and the deed record",
+   "paragraphs": [
+    "When a mineral interest passes by inheritance rather than by direct deed, the chain of title depends on probate and estate records rather than a single conveying instrument. A recorded will, letters of administration, or an order of distribution from probate court effectively takes the place of a deed in tracing ownership forward to the heirs. Where an estate went through informally, without a full probate record, a title examiner may require an affidavit of heirship or similar curative document before recognizing the heirs' interest in a way that supports a current division order or a future sale.",
+    "If you are unsure whether your inherited interest was ever properly documented at the courthouse, a quick check with the county clerk's office where the minerals sit, or with a title professional, will usually tell you within a short conversation whether there is a gap to close.",
+    "It is also common for one heir to have handled the paperwork on behalf of siblings or cousins informally, without ever recording a document showing each person's individual share. That arrangement can work for years while a family stays in agreement, but it becomes a real obstacle the moment one heir wants to sell their portion independently, since a buyer's title examiner needs a recorded basis for that specific share."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What is the difference between a mineral deed and a lease?",
+   "answer": "A deed transfers ownership of the mineral estate itself. A lease grants a company the right to explore and produce for a term of years in exchange for bonus and royalty, without transferring ownership. You can sell a mineral interest whether or not it is currently leased."
+  },
+  {
+   "question": "Does my mineral deed need to be recorded to be valid?",
+   "answer": "It is generally valid between the parties even unrecorded, but recording in the county clerk's office is what protects your priority and makes your ownership visible to future title searches, division order requests, and buyers."
+  },
+  {
+   "question": "What if I inherited minerals but there is no deed in my name?",
+   "answer": "This is common when ownership passes by inheritance rather than direct purchase. Probate records, or an affidavit of heirship where a formal probate never occurred, typically substitute for a deed in establishing your chain of title."
+  },
+  {
+   "question": "Can a mineral deed convey just part of my interest?",
+   "answer": "Yes. Deeds can convey a fractional undivided share, a specific depth interval, or exclude executive rights, and are drafted to match exactly what is being transferred in a given transaction."
+  },
+  {
+   "question": "How do I find out which county's records govern my mineral interest?",
+   "answer": "The county where the tract physically sits controls recording, which is not always the county where you currently live if the interest passed down through a family that has since moved. Your deed or estate paperwork should identify the correct county and district."
+  }
+ ],
+ "wordCount": 949,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Us | West Virginia Mineral Buyer",
+ "metaDescription": "We buy West Virginia mineral and royalty interests, starting every file with a real title review rather than a quick guess at value.",
+ "heroLead": "We buy mineral and royalty interests across West Virginia, and the way we get to a number is by looking at the actual paper first, not the other way around, county courthouse records included.",
+ "intro": [
+  "Most mineral buyers a West Virginia owner encounters lead with a dollar figure. We tend to lead with a question: what does your title chain actually show? That order matters, because in a state where mineral estates were severed from the surface generations ago, and where so many interests have passed through inheritance rather than direct sale, the difference between a rough guess and an accurate offer usually comes down to whether anyone actually looked at the deeds and estate records behind the tract.",
+  "That is the work we do before we ever put a number in front of you."
+ ],
+ "sections": [
+  {
+   "heading": "Why we start with the title chain",
+   "paragraphs": [
+    "West Virginia's mineral title history is layered, often running through a severance deed from the coal or timber era, followed by decades of family transfers, some recorded cleanly and some passed down informally. We trace that chain back through the county courthouse record because it is the only reliable way to confirm what a seller actually owns and can convey, and because it is exactly what a future buyer's own title examiner will do regardless. Starting there ourselves means fewer surprises later and a faster path to closing.",
+    "It also means we can speak specifically to your tract rather than repeating a general statement about your county. Two neighboring tracts can carry very different title histories, and that history shapes both value and how quickly a sale can move."
+   ]
+  },
+  {
+   "heading": "Where we spend the most time",
+   "paragraphs": [
+    "Two situations come up constantly in our files. The first is the old flat-rate lease, common on family tracts across the state, that has paid the same fixed annual sum for years regardless of how the well has actually produced. The second is fractionated heirship, where a mineral interest has passed down to several living relatives, sometimes without a formal probate ever documenting each person's share. Neither situation is unusual, and neither one has to be resolved entirely on your own before we can talk. We work through both directly as part of putting an offer together.",
+    "Because so much of our work is documentation-heavy, we tend to ask more questions up front than owners expect from a mineral buyer. That is intentional. It is how we arrive at an offer that actually reflects your specific interest.",
+    "Over time this has meant getting comfortable with paperwork that a lot of buyers avoid: aging probate files, deed books referencing tracts by metes and bounds descriptions rather than modern parcel numbers, and family distributions that were handled informally decades ago and never followed up with a recorded document. Sorting through that is simply part of the job in a state where so much mineral ownership traces back this far."
+   ]
+  },
+  {
+   "heading": "What we are, and are not",
+   "paragraphs": [
+    "We are a direct buyer of mineral and royalty interests, not a licensed appraiser, attorney, or CPA, and nothing here should be taken as legal or tax advice. For questions specific to your estate, your title, or your tax situation, we encourage you to talk to your own attorney or CPA, and we are glad to work alongside whoever you choose to consult as we put a sale together.",
+    "We also do not represent that any figure discussed in general conversation is a final offer. A real offer follows an actual review of your documents and title, not a guess based on your county alone."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you only buy interests in certain West Virginia counties?",
+   "answer": "We look at mineral and royalty interests across the state, though the specifics of any offer depend on the play position, production status, and title history of your particular tract."
+  },
+  {
+   "question": "Will you tell me what you found in my title review?",
+   "answer": "Yes. If our review turns up an issue, such as an unresolved estate or a fractional decimal that does not match your expectation, we explain what we found and what would need to happen to resolve it."
+  },
+  {
+   "question": "Are you a law firm or a licensed appraiser?",
+   "answer": "No. We are a direct buyer of mineral interests. For legal or tax questions specific to your situation, we recommend talking to your own attorney or CPA, and we are happy to work alongside them during a sale."
+  },
+  {
+   "question": "Do you buy both leased and unleased minerals?",
+   "answer": "Yes. We evaluate producing, leased but non-producing, and entirely unleased interests, using different approaches to value depending on which category your interest falls into."
+  },
+  {
+   "question": "How much detail will you give me about a title issue you find?",
+   "answer": "As much as is useful. If we find an unrecorded transfer, a missing probate step, or a decimal that does not match what your family expected, we explain the specific issue and what curative document would resolve it."
+  },
+  {
+   "question": "Do you work with families spread across multiple states?",
+   "answer": "Yes. It is common for heirs of a West Virginia mineral interest to have moved out of state over the generations, and we regularly coordinate with family members regardless of where they currently live."
+  }
+ ],
+ "wordCount": 885,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-sellmineralrightswestvirginia-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

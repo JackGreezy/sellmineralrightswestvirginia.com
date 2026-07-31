@@ -1,0 +1,78 @@
+{
+ "slug": "mineral-rights",
+ "title": "Mineral Rights",
+ "type": "interest-type",
+ "metaTitle": "What West Virginia Mineral Rights Actually Include",
+ "metaDescription": "Confused about what your West Virginia mineral rights cover versus surface land, royalty, or leasehold? We explain the estate and confirm yours from the deed.",
+ "heroLead": "Owning mineral rights in West Virginia means owning a distinct legal estate, separate from the surface, and what exactly it includes depends on the language in a deed that might be a century old.",
+ "intro": [
+  "Mineral rights, sometimes called the mineral estate, give the owner the right to explore for, develop and produce oil, gas and other minerals beneath a tract of land, along with the right to lease those minerals to an operator and receive bonus and royalty payments in exchange. In West Virginia, the mineral estate is very often severed from the surface estate, meaning one person or family owns the surface while a different owner, sometimes a descendant of a coal or timber company from the early 1900s, owns the minerals underneath.",
+  "Confirming exactly what your mineral rights cover starts with the severance deed, and the specific wording in that document controls far more than most owners expect."
+ ],
+ "sections": [
+  {
+   "heading": "The full mineral estate versus a carved-out piece of it",
+   "paragraphs": [
+    "A full mineral owner holds the right to lease the minerals, negotiate bonus and royalty terms, and receive whatever share of production the lease specifies. But mineral rights can also be divided further, an owner might sell or reserve just the royalty portion while keeping the executive right to lease, or convey an overriding royalty carved out of a specific lease rather than the underlying minerals themselves. If your family's deed history includes multiple transfers, the specific bundle of rights you hold today may be narrower than 'mineral rights' generally implies.",
+    "We read the actual granting language in your deed rather than assuming a title labeled 'mineral deed' conveys the full estate, since the specific reservations and exceptions inside the document control."
+   ]
+  },
+  {
+   "heading": "What formations and depths your rights reach",
+   "paragraphs": [
+    "Older West Virginia severance deeds, particularly those from the coal and timber era, sometimes limit the mineral grant to specific substances or depths rather than the entire mineral column. A deed that severed 'coal' alone is a different asset than one severing 'oil, gas and all other minerals.' For owners in the Marcellus and Utica fairway, this distinction matters directly, since a deed limited to shallow rights may not extend to the deeper shale formations operators are targeting today.",
+    "We check this specifically before valuing a tract, because a full mineral estate and a depth-limited or substance-limited interest are priced very differently."
+   ]
+  },
+  {
+   "heading": "Surface owner conflicts and access rights",
+   "paragraphs": [
+    "West Virginia law generally gives the mineral estate dominance over the surface estate for purposes of reasonable development, meaning an operator can typically access the surface to drill even without the surface owner's consent, subject to reasonable compensation for damages under the state's oil and gas surface owner protections. If you own minerals but not the surface, this dominant-estate principle is part of what makes your interest valuable to a lessee. If you own both, it's worth understanding how a future lease might affect the surface separately from the royalty income."
+   ]
+  },
+  {
+   "heading": "Confirming your specific rights before a sale",
+   "paragraphs": [
+    "We start with the recorded severance deed or the deed by which you acquired the interest, trace forward through any subsequent transfers, and confirm exactly what bundle of rights you hold, full mineral estate, royalty-only, or something narrower, before discussing value. That confirmation protects you from underselling a broader interest than you realize you have, and from overestimating one that's narrower than the family understood."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between mineral rights and surface rights?",
+   "answer": "The surface estate covers the land itself for farming, building and use. The mineral estate covers the oil, gas, coal and other substances beneath it. In West Virginia these are frequently severed and owned separately."
+  },
+  {
+   "question": "How do I know if my deed conveys full mineral rights or something narrower?",
+   "answer": "The granting and reservation language in the deed controls. We read the actual document rather than relying on a general label, since older deeds especially can limit the grant by substance or depth."
+  },
+  {
+   "question": "Do I own the minerals if I only own the surface land?",
+   "answer": "Not necessarily. If the mineral estate was severed at some point in the property's history, the surface owner and mineral owner can be different people entirely, even generations apart."
+  },
+  {
+   "question": "Can an operator drill on my land if I only own the minerals, not the surface?",
+   "answer": "Generally yes, West Virginia law treats the mineral estate as dominant for reasonable development purposes, though the operator typically owes the surface owner compensation for damages under state surface protection provisions."
+  },
+  {
+   "question": "How do I find my original severance deed?",
+   "answer": "It's recorded at the county clerk's office in the county where the property sits. If you don't have a copy, we can pull it as part of confirming your title before making an offer."
+  },
+  {
+   "question": "Can mineral rights be sold separately from surface rights?",
+   "answer": "Yes, once severed, the mineral estate is its own transferable property right and can be sold, leased or inherited independently of whatever happens to the surface land above it."
+  },
+  {
+   "question": "What's recorded on a division order versus a mineral deed?",
+   "answer": "A mineral deed transfers ownership of the interest itself and is recorded at the county clerk's office. A division order is the operator's internal record of your ownership percentage used to calculate royalty payments, and it should match the deed."
+  }
+ ],
+ "status": "written",
+ "wordCount": 901,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

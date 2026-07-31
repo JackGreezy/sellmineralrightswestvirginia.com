@@ -1,0 +1,84 @@
+{
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy | WV Mineral Rights",
+ "metaDescription": "How we collect, use, and protect information you share with us when discussing or selling a West Virginia mineral or royalty interest.",
+ "heroLead": "This page explains what information we collect when you reach out about a West Virginia mineral or royalty interest, and how we handle it, particularly the sensitive title and estate documents that come with the territory.",
+ "intro": [
+  "Selling a mineral interest often involves sharing sensitive documents, including deeds, estate records, and royalty statements, so we want to be clear about how we handle the information you provide to us, whether through a form, a phone call, or documents you send along the way.",
+  "This policy covers the categories of information we collect, how we use it, and the choices you have around it."
+ ],
+ "sections": [
+  {
+   "heading": "Information we collect",
+   "paragraphs": [
+    "When you contact us about a mineral or royalty interest, we typically collect your name, contact information, and details about the interest itself, such as its location, lease status, and any documents you choose to share, including deeds, royalty statements, division orders, or estate paperwork. We collect this information because it is what we need to review your title and put together an accurate offer, not for any purpose unrelated to that.",
+    "If you visit our website without contacting us directly, we may also collect basic technical information, such as browser type and pages visited, through standard analytics tools, which helps us understand how the site is used."
+   ]
+  },
+  {
+   "heading": "How we use your information",
+   "paragraphs": [
+    "We use the information you provide to review your title, evaluate your mineral or royalty interest, communicate with you about a potential offer, and, if you choose to move forward, complete the closing process. We do not sell your personal information to third parties for marketing purposes.",
+    "If you contact us with a general question and are not ready to pursue an offer, we retain your information only long enough to be useful for follow-up if you reach out again, and we will remove it on request."
+   ]
+  },
+  {
+   "heading": "Sharing documents you provide",
+   "paragraphs": [
+    "Documents such as deeds and estate records may need to be shared with title professionals, closing agents, or recording offices as part of completing a sale. We share this information only as needed to complete the transaction you have asked us to help with, and we expect the same care from any third party involved in that process.",
+    "Estate and heirship records in particular often contain sensitive family information, including names and relationships of relatives who may not be party to your specific transaction. We treat these records with the same care as any other sensitive document you provide."
+   ]
+  },
+  {
+   "heading": "Your choices",
+   "paragraphs": [
+    "You can ask us at any time what information we hold about you related to your inquiry, and you can decline to move forward with a sale at any stage, in which case we will discuss with you what happens to any documents you have already shared.",
+    "If you would prefer to communicate by phone rather than sending documents electronically, or want to discuss how a specific record such as an estate file will be handled before sharing it, let us know and we can work through that with you directly."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell my personal information to other companies?",
+   "answer": "No. We do not sell your personal information to third parties for marketing purposes. Information is used to evaluate and, if you choose, complete a sale of your mineral interest."
+  },
+  {
+   "question": "Who sees the documents I share, like my deed or estate paperwork?",
+   "answer": "Documents are shared only with parties needed to complete your specific transaction, such as title professionals or a closing agent, and only as necessary to that process."
+  },
+  {
+   "question": "Can I ask what information you have collected about me?",
+   "answer": "Yes. You can reach out at any time to ask what information we hold related to your inquiry or interest."
+  },
+  {
+   "question": "What happens to my documents if I decide not to sell?",
+   "answer": "If you choose not to move forward, we will discuss with you what happens to any documents already shared and can address deletion or return of those materials on request."
+  },
+  {
+   "question": "Do you use cookies or similar tracking on this website?",
+   "answer": "The site may use standard analytics tools that collect general technical information, such as browser type and pages visited, to help us understand how visitors use the site. This is separate from the personal information you provide when contacting us directly."
+  },
+  {
+   "question": "How long do you retain documents like deeds or estate records after closing?",
+   "answer": "We retain closing documents for as long as reasonably necessary for our own records and legal requirements related to the transaction, and can discuss specific retention questions with you directly if you have concerns."
+  },
+  {
+   "question": "Will you share my family's estate details with anyone outside the transaction?",
+   "answer": "No. Estate and heirship details you share are used only for evaluating and completing your specific transaction, and are not shared beyond the professionals directly involved in that process."
+  },
+  {
+   "question": "Can I ask questions about this policy before sharing any documents?",
+   "answer": "Yes. You are welcome to ask how a specific type of document, such as an estate file or an old lease, will be handled before you send it to us."
+  }
+ ],
+ "wordCount": 858,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

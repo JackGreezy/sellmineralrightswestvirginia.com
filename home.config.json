@@ -1,0 +1,29 @@
+{
+  "domain": "sellmineralrightswestvirginia.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightswestvirginia.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightswestvirginia.com",
+  "reference": "https://www.iceye.com/",
+  "refhost": "iceye-com",
+  "biz": "Sell Mineral Rights West Virginia",
+  "businessName": "Sell Mineral Rights West Virginia",
+  "wordmark_l1": "SELL MINERAL RIGHTS",
+  "wordmark_l2": "WEST VIRGINIA",
+  "city": "Charleston",
+  "state": "West Virginia",
+  "region": "Charleston, the Marcellus and Utica shale fairways, and mineral-producing counties across West Virginia",
+  "phone": "304-555-1038",
+  "email": "westvirginia@sellmineralrightswestvirginia.com",
+  "address": "501 Virginia St E, Charleston, WV 25301",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "brand_favicon": "/favicon.svg",
+  "hero_image": "/ours/pages/mineral-rights-pages-home-sellmineralrightswestvirginia-com.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/sellmineralrightswestvirginia.com/site-voice.json",
+  "nav": [
+    ["Owner Situations", "/situations"],
+    ["Interest Types", "/interest-types"],
+    ["Record Guides", "/resources"],
+    ["West Virginia Areas", "/locations"]
+  ],
+  "cta": ["Request a WV Title Review", "/contact#contact-form"]
+}

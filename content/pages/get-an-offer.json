@@ -1,0 +1,74 @@
+{
+ "slug": "get-an-offer",
+ "title": "Get An Offer",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Get an Offer on Your WV Mineral Rights",
+ "metaDescription": "Request an offer on your West Virginia mineral or royalty interest. Tell us what you own and what documents you have, and we take it from there.",
+ "heroLead": "Getting an offer starts with a short conversation about what you own, not a form that asks you to guess at a dollar figure before anyone has looked at your file, and it works whether your title is clean or still needs a curative step.",
+ "intro": [
+  "If you are ready to explore selling a West Virginia mineral or royalty interest, the fastest way to get a meaningful offer is to tell us what you actually have: where the minerals sit, whether they are leased or unleased, and whatever paperwork you can put your hands on, even if it is incomplete. We take it from there.",
+  "You do not need a polished file. A deed, a recent royalty statement, an old lease, or even just a rough sense of who in the family the interest passed through is enough to start."
+ ],
+ "sections": [
+  {
+   "heading": "What to have ready",
+   "paragraphs": [
+    "If you have them, gather your deed or any prior lease, recent royalty statements if the interest is producing, and any estate paperwork connected to how you came to own the interest, such as a will, letters of administration, or an affidavit of heirship. If you do not have these documents on hand, that is fine. Tell us what you know and we can help identify what is missing and where to find it.",
+    "If your interest is one of several undivided shares held by siblings, cousins, or other relatives, it helps to mention that up front, along with whatever you know about the other co-owners, even though you can typically sell your own share independently of what they decide to do.",
+    "If your interest sits under an older flat-rate lease, mention the annual amount you have been receiving and roughly how long it has been unchanged. That detail alone helps us understand whether the lease terms need particular attention as we evaluate the underlying acreage."
+   ]
+  },
+  {
+   "heading": "What happens after you reach out",
+   "paragraphs": [
+    "We review whatever documents you provide alongside the recorded title for your tract, and where the interest is producing, we look at recent production and payment history. From that review we put together an offer specific to your interest, along with an explanation of how we arrived at it. If your file involves an old flat-rate lease or an heirship issue that needs curative attention, we walk you through what that means for the offer and the closing timeline.",
+    "If we cannot immediately confirm your ownership from the documents provided, we will tell you specifically what additional record we need, whether that is a certified deed copy from the county clerk or a probate document, rather than leaving the request open-ended."
+   ]
+  },
+  {
+   "heading": "No pressure, no obligation",
+   "paragraphs": [
+    "Requesting an offer does not commit you to anything. You are free to take the time you need, ask questions about how the number was calculated, or decide not to move forward at all. We would rather you understand the offer fully than sign quickly without knowing what is behind the number.",
+    "We also will not push you to sign around an unresolved heirship question or an incomplete estate record just to close faster. If curative work is needed, we would rather do it properly and have the offer reflect the interest you actually and provably own."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "Is there a fee to get an offer?",
+   "answer": "No. There is no cost to have your interest reviewed and no obligation to accept whatever offer results from that review."
+  },
+  {
+   "question": "What if I do not know exactly what I own?",
+   "answer": "That is common, particularly with interests that passed down through inheritance. Tell us what you know and we can help trace the ownership from there using county records."
+  },
+  {
+   "question": "Do I need production history to get an offer on unleased minerals?",
+   "answer": "No. Unleased minerals are valued differently, based on nearby drilling and leasing activity and the tract's play position, rather than on a production history that does not exist yet."
+  },
+  {
+   "question": "How soon will I hear back after reaching out?",
+   "answer": "Timing depends on how much title research your specific file requires, but we move as quickly as the documents allow and will let you know what to expect once we understand your situation."
+  },
+  {
+   "question": "Can I request an offer if I only own part of an interest with several relatives?",
+   "answer": "Yes. Request an offer on your own share, and mention what you know about the other co-owners if relevant. Your individual undivided share can generally be evaluated and sold independently."
+  },
+  {
+   "question": "What if I already have an offer from another buyer?",
+   "answer": "You are welcome to share it and ask us to look at your interest as a comparison. We will explain our own reasoning so you can weigh both offers with a clear understanding of the assumptions behind each."
+  },
+  {
+   "question": "Can I request an offer on more than one interest at the same time?",
+   "answer": "Yes. If you own multiple mineral or royalty interests, whether in the same county or spread across the state, mention all of them and we can review each one."
+  }
+ ],
+ "wordCount": 859,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-get-an-offer-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Get An Offer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}

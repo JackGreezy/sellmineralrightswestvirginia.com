@@ -1,0 +1,78 @@
+{
+ "slug": "non-participating-royalty",
+ "title": "Non-Participating Royalty (NPRI)",
+ "type": "interest-type",
+ "metaTitle": "Selling a Non-Participating Royalty Interest in West Virginia",
+ "metaDescription": "Own an NPRI in West Virginia, royalty income but no say in leasing? We confirm the reservation language in your deed and buy the interest directly.",
+ "heroLead": "A non-participating royalty interest pays you from production but gives you no seat at the table when the mineral owner negotiates the lease, and that split is written into a specific reservation clause somewhere in your family's deed history.",
+ "intro": [
+  "A non-participating royalty interest, usually shortened to NPRI, entitles the holder to a fractional share of production revenue without any right to negotiate leases, receive bonus payments, or participate in decisions about whether and when to drill. In West Virginia, NPRIs typically originate from a deed where a prior owner sold or conveyed the surface and mineral estate but reserved a royalty share for themselves or their heirs, or conversely where a mineral owner sold the executive rights while keeping a royalty carve-out.",
+  "Because an NPRI is a fixed, contractual right tied to whatever lease terms the executive rights holder negotiates, its value depends heavily on the reservation language itself, not only on current production."
+ ],
+ "sections": [
+  {
+   "heading": "How the reservation clause controls what you're owed",
+   "paragraphs": [
+    "The specific wording that created your NPRI matters enormously. Some reservations specify a fixed royalty fraction, commonly one-eighth or one-sixteenth, regardless of what royalty rate the mineral owner later negotiates in an actual lease. Others are proportionate, entitling the NPRI holder to a set share of whatever royalty the lease specifies. These produce very different payments on the same tract if the underlying lease carries a royalty rate above or below the historical one-eighth standard common in older West Virginia agreements.",
+    "We read the original reservation deed carefully before valuing an NPRI, since two interests that look identical on paper can pay very differently depending on this distinction."
+   ]
+  },
+  {
+   "heading": "Why NPRI owners have no leasing control",
+   "paragraphs": [
+    "Unlike a full mineral owner, an NPRI holder can't sign a lease, negotiate a bonus, or block a lease the executive rights holder decides to sign. This means your royalty income depends entirely on decisions made by someone else, whoever holds the executive mineral rights on your tract, including their choice of operator, timing, and negotiated royalty rate. If that party has been slow to lease, or leased on unfavorable terms, an NPRI holder has essentially no recourse beyond whatever protections exist for waste or bad faith dealing.",
+    "This dependency is part of why NPRI interests trade differently than full mineral interests, and we factor it directly into any valuation."
+   ]
+  },
+  {
+   "heading": "Confirming your NPRI is still valid and hasn't lapsed",
+   "paragraphs": [
+    "Some older West Virginia NPRIs were created with a term limitation, tied to a specific lease or a stated number of years, rather than as a perpetual interest. We check whether your reservation is perpetual or term-limited, and if term-limited, whether it's still within its valid period, before assuming the interest carries ongoing value. A lapsed term NPRI is a materially different asset than a perpetual one even if the original deed language looks similar at a glance."
+   ]
+  },
+  {
+   "heading": "What we need to value and buy your NPRI",
+   "paragraphs": [
+    "We want the original reservation deed creating the interest, any subsequent transfer if the NPRI itself changed hands, and your recent royalty statements if the tract is currently producing. From those documents we confirm your fractional share, the fixed-versus-proportionate structure, and whether the interest is perpetual, then put together an offer that reflects the specific mechanics of your reservation rather than a generic royalty estimate."
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What makes an NPRI different from owning mineral rights outright?",
+   "answer": "An NPRI holder receives a royalty share of production but has no right to sign leases, negotiate bonus payments, or make development decisions. Those rights belong to whoever holds the executive mineral interest."
+  },
+  {
+   "question": "Do I get paid the same royalty rate as the mineral owner's lease?",
+   "answer": "It depends on how your reservation deed was written. Some NPRIs specify a fixed royalty fraction regardless of the lease's actual rate; others are proportionate to whatever the lease specifies. We check your specific deed language."
+  },
+  {
+   "question": "Can the mineral owner lease my tract without telling me?",
+   "answer": "Generally yes, since NPRI holders don't have executive rights. You're typically not a required party to the lease negotiation, though you should still receive your royalty share once production begins."
+  },
+  {
+   "question": "Is my NPRI perpetual or could it expire?",
+   "answer": "Some older West Virginia NPRIs were created with term limits tied to a specific lease or a stated number of years. We check the original deed to confirm whether yours is perpetual or term-limited before valuing it."
+  },
+  {
+   "question": "Can you buy my NPRI even though I don't control the leasing?",
+   "answer": "Yes. We regularly buy non-participating royalty interests. The lack of executive control is factored into the valuation, but the interest itself is a real, transferable property right."
+  },
+  {
+   "question": "How is an NPRI different from a working interest?",
+   "answer": "An NPRI receives royalty income without any cost exposure or leasing authority. A working interest carries both drilling and operating cost exposure and, typically, executive rights. They're valued using entirely different methods."
+  },
+  {
+   "question": "Can an NPRI be split among multiple heirs like a mineral interest?",
+   "answer": "Yes. An NPRI is a transferable property right and can be divided through inheritance the same way mineral or royalty interests are, which is common on older West Virginia reservations passed through several generations."
+  }
+ ],
+ "status": "written",
+ "wordCount": 885,
+ "image": {
+  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-sellmineralrightswestvirginia-com.jpg",
+  "alt": "Non-Participating Royalty (NPRI) mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
+}
