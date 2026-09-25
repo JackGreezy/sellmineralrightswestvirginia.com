@@ -5,36 +5,44 @@
     "domain_lock": "sellmineralrightswestvirginia.com",
     "reusable": false,
     "cadence": "find the county book, trace the severance, settle the heirship branch, reconcile the pay deck, test the shale evidence, write the conveyance, close the abstract",
-    "lexicon": ["county deed book", "severance clause", "heirship branch", "parcel map", "pay deck", "curative file", "Marcellus interval", "closing abstract"],
-    "avoid": ["first-person singular narration", "instant value claims", "guaranteed drilling", "highest-offer promises", "generic nationwide buyer copy", "reusable voice pack"]
+    "lexicon": [
+      "county deed book",
+      "severance clause",
+      "heirship branch",
+      "parcel map",
+      "pay deck",
+      "curative file",
+      "Marcellus interval",
+      "closing abstract"
+    ],
+    "avoid": [
+      "first-person singular narration",
+      "instant value claims",
+      "guaranteed drilling",
+      "highest-offer promises",
+      "generic nationwide buyer copy",
+      "reusable voice pack"
+    ]
   },
-  "scrub": [
-    ["\\bI['’]m\\b", "Sell Mineral Rights West Virginia is"],
-    ["\\bI['’]ve\\b", "Sell Mineral Rights West Virginia has"],
-    ["\\bI['’]ll\\b", "Sell Mineral Rights West Virginia will"],
-    ["\\bI['’]d\\b", "Sell Mineral Rights West Virginia would"],
-    ["\\bmyself\\b", "directly"],
-    ["\\bmy\\b", "the abstract desk's"],
-    ["\\bme\\b", "the West Virginia abstract desk"],
-    ["\\bI\\b", "Sell Mineral Rights West Virginia"]
-  ],
-  "question_scrub": [
-    ["\\bHow do Sell Mineral Rights West Virginia\\b", "How do you"],
-    ["\\bDoes Sell Mineral Rights West Virginia\\b", "Do you"],
-    ["\\bCan Sell Mineral Rights West Virginia\\b", "Can you"],
-    ["\\bWhat if Sell Mineral Rights West Virginia\\b", "What if you"],
-    ["\\bIs Sell Mineral Rights West Virginia\\b", "Are you"],
-    ["\\bWill Sell Mineral Rights West Virginia\\b", "Will you"],
-    ["\\bShould Sell Mineral Rights West Virginia\\b", "Should you"],
-    ["\\bthe abstract desk['’]s\\b", "your"],
-    ["\\bthe West Virginia abstract desk\\b", "you"],
-    ["\\bSell Mineral Rights West Virginia\\b", "you"]
-  ],
+  "scrub": [],
+  "question_scrub": [],
   "heroes": [
-    ["Sell Mineral Rights in West Virginia", "A West Virginia mineral review that follows the county deed book through the severance clause, heirship branch, paid decimal, Marcellus or Utica evidence, written offer, and recorded conveyance."],
-    ["Find the Book Before Pricing the Interest", "County, parcel, grantor, grantee, instrument, acreage, depths, and ownership fraction establish the record trail before an offer is compared."],
-    ["Separate the Surface From the Severed Estate", "Appalachian title can divide by estate, formation, tract, family branch, and reservation language. Each line needs its own source."],
-    ["Close From a Written Abstract", "The agreement, deed, retained interest, settlement record, funding confirmation, and county recording should describe the same tract and fraction."]
+    [
+      "Sell Mineral Rights in West Virginia",
+      "A West Virginia mineral review that follows the county deed book through the severance clause, heirship branch, paid decimal, Marcellus or Utica evidence, written offer, and recorded conveyance."
+    ],
+    [
+      "Find the Book Before Pricing the Interest",
+      "County, parcel, grantor, grantee, instrument, acreage, depths, and ownership fraction establish the record trail before an offer is compared."
+    ],
+    [
+      "Separate the Surface From the Severed Estate",
+      "Appalachian title can divide by estate, formation, tract, family branch, and reservation language. Each line needs its own source."
+    ],
+    [
+      "Close From a Written Abstract",
+      "The agreement, deed, retained interest, settlement record, funding confirmation, and county recording should describe the same tract and fraction."
+    ]
   ],
   "copy": {
     "home_eyebrow": "APPALACHIAN MINERAL ABSTRACT",
@@ -85,11 +93,26 @@
     "nf_cta": "Return to the West Virginia Abstract Desk"
   },
   "about_blocks": [
-    ["Find the County Book", "County, district, parcel, acreage, grantor, grantee, instrument references, depths, formations, and ownership fraction establish the tract under review."],
-    ["Trace the Severance", "The chain should show whether the owner holds minerals, royalty only, an override, working interest, a formation, a depth interval, or a fraction reserved from the surface."],
-    ["Settle the Heirship Branch", "Probate orders, affidavits, trusts, estates, marriages, divorces, and recorded conveyances should connect the acquired interest to a person with signing authority."],
-    ["Reconcile the Pay Deck", "Division orders, lease royalty, unit participation, products, deductions, taxes, adjustments, suspense, and recent statements should explain the paid decimal."],
-    ["Record the Same Conveyance", "The offer, deed, retained-interest clause, title work, settlement record, funding confirmation, and county recording should describe the same tract and fraction."]
+    [
+      "Find the County Book",
+      "County, district, parcel, acreage, grantor, grantee, instrument references, depths, formations, and ownership fraction establish the tract under review."
+    ],
+    [
+      "Trace the Severance",
+      "The chain should show whether the owner holds minerals, royalty only, an override, working interest, a formation, a depth interval, or a fraction reserved from the surface."
+    ],
+    [
+      "Settle the Heirship Branch",
+      "Probate orders, affidavits, trusts, estates, marriages, divorces, and recorded conveyances should connect the acquired interest to a person with signing authority."
+    ],
+    [
+      "Reconcile the Pay Deck",
+      "Division orders, lease royalty, unit participation, products, deductions, taxes, adjustments, suspense, and recent statements should explain the paid decimal."
+    ],
+    [
+      "Record the Same Conveyance",
+      "The offer, deed, retained-interest clause, title work, settlement record, funding confirmation, and county recording should describe the same tract and fraction."
+    ]
   ],
   "slug_ui": {
     "faq_kicker": "ABSTRACT DESK CHECK",
@@ -102,26 +125,150 @@
   },
   "taxonomy_enrichment": {
     "investing": [
-      ["Read {name} Through the Paid Record", "A West Virginia mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, tract, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open."],
-      ["Keep the Shale Case Separate", "Nearby wells, units, permits, operator activity, and a Marcellus or Utica label can add context without proving future development. Base, downside, and upside cases need the same ownership fraction and paid decimal."],
-      ["Stress One Cash Assumption at a Time", "Production decline, prices, downtime, deductions, taxes, curtailment, and operator concentration should be tested separately so a title assumption is not hidden inside an economic forecast."],
-      ["Preserve the Underwriting Trail", "Every material number should keep its source and date. The record should state the holding period, liquidity limits, title expense, tax questions, and the event that would invalidate the original case."],
-      ["Reconcile the Investment Case to the County Abstract", "{name} still depends on the estate described in the recorded chain. The investment file should identify the deed book and page, severance language, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved heirship branch. That reconciliation prevents a clean-looking revenue model from assuming acreage or rights the seller cannot convey, and it gives the closing team a written list of title facts that must remain true through funding and recording."],
-      ["Test the Paid Decimal Against the Royalty History", "The abstract desk should compare several statement months rather than treating one check as normal. Oil, gas, and natural-gas-liquids volumes, price, taxes, post-production deductions, prior-period adjustments, downtime, and suspense releases can move independently. A producing-interest review records those movements beside the lease royalty and unit participation so the modeled net revenue interest has a documentary source. For nonproducing acreage, the file states clearly that permits, nearby wells, or operator activity are development evidence rather than current cash flow. That distinction keeps a West Virginia title fact, an operating fact, and a forecast assumption from being presented as the same thing."]
+      [
+        "Read {name} Through the Paid Record",
+        "A West Virginia mineral investment should be traced from the recorded interest to the paid decimal before a yield or multiple is trusted. The file identifies the county, tract, ownership fraction, lease royalty, unit participation, deductions, taxes, producing wells, operator, statement months, and title assumptions still open."
+      ],
+      [
+        "Keep the Shale Case Separate",
+        "Nearby wells, units, permits, operator activity, and a Marcellus or Utica label can add context without proving future development. Base, downside, and upside cases need the same ownership fraction and paid decimal."
+      ],
+      [
+        "Stress One Cash Assumption at a Time",
+        "Production decline, prices, downtime, deductions, taxes, curtailment, and operator concentration should be tested separately so a title assumption is not hidden inside an economic forecast."
+      ],
+      [
+        "Preserve the Underwriting Trail",
+        "Every material number should keep its source and date. The record should state the holding period, liquidity limits, title expense, tax questions, and the event that would invalidate the original case."
+      ],
+      [
+        "Reconcile the Investment Case to the County Abstract",
+        "{name} still depends on the estate described in the recorded chain. The investment file should identify the deed book and page, severance language, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved heirship branch. That reconciliation prevents a clean-looking revenue model from assuming acreage or rights the seller cannot convey, and it gives the closing team a written list of title facts that must remain true through funding and recording."
+      ],
+      [
+        "Test the Paid Decimal Against the Royalty History",
+        "The abstract desk should compare several statement months rather than treating one check as normal. Oil, gas, and natural-gas-liquids volumes, price, taxes, post-production deductions, prior-period adjustments, downtime, and suspense releases can move independently. A producing-interest review records those movements beside the lease royalty and unit participation so the modeled net revenue interest has a documentary source. For nonproducing acreage, the file states clearly that permits, nearby wells, or operator activity are development evidence rather than current cash flow. That distinction keeps a West Virginia title fact, an operating fact, and a forecast assumption from being presented as the same thing."
+      ]
     ],
     "exchange-1031": [
-      ["Put {name} on the Exchange Calendar", "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, property, expected proceeds, closing date, deadlines, and proposed replacement property."],
-      ["Keep Curative Work and Federal Timing Distinct", "Deed work, probate, heirship, trusts, corrective instruments, and payor records can move on a different schedule from exchange deadlines. Each open item needs a responsible professional and written status."],
-      ["Match the Property Scope", "The sale agreement, deed, parcel description, retained-interest language, settlement statement, intermediary instructions, and replacement identification should not quietly change acreage, formation, depth, county, or ownership fraction."],
-      ["Keep a Complete Owner Copy", "The completed file should retain the agreement, recorded deed, exact tract, settlement statement, intermediary instructions, identification notices, replacement documents, title correspondence, and recording information."],
-      ["Tie the Exchange File Back to the Conveyed Interest", "{name} should never float free of the county abstract. The owner file should show the exact West Virginia tract, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline. That record helps independent tax and legal advisers evaluate what was sold while the mineral closing team confirms that the signed deed, funded transaction, and county recording all describe the same interest."],
-      ["Document Each Handoff Before the Mineral Closing", "The owner should know which professional controls each part of the file. The qualified intermediary handles exchange funds and required notices; independent tax counsel evaluates eligibility and reporting; title counsel addresses deed, entity, probate, trust, and curative questions; the closing team confirms the tract, estate, fraction, consideration, and recording package. Written handoffs matter because a mineral abstract can remain open while federal identification and acquisition periods continue to run. A dated issue list, communication record, and owner copy reduce the chance that proceeds are received by the wrong party, a notice uses an incomplete property description, or a curative item is mistaken for an extension of a statutory deadline. The final checklist should also record the West Virginia county, instrument number, recording date, funded amount, and professional responsible for every unresolved follow-up."]
+      [
+        "Put {name} on the Exchange Calendar",
+        "Potential exchange treatment should be discussed with a qualified intermediary and independent tax counsel before a sale closes or proceeds are received. The file identifies the selling entity, property, expected proceeds, closing date, deadlines, and proposed replacement property."
+      ],
+      [
+        "Keep Curative Work and Federal Timing Distinct",
+        "Deed work, probate, heirship, trusts, corrective instruments, and payor records can move on a different schedule from exchange deadlines. Each open item needs a responsible professional and written status."
+      ],
+      [
+        "Match the Property Scope",
+        "The sale agreement, deed, parcel description, retained-interest language, settlement statement, intermediary instructions, and replacement identification should not quietly change acreage, formation, depth, county, or ownership fraction."
+      ],
+      [
+        "Keep a Complete Owner Copy",
+        "The completed file should retain the agreement, recorded deed, exact tract, settlement statement, intermediary instructions, identification notices, replacement documents, title correspondence, and recording information."
+      ],
+      [
+        "Tie the Exchange File Back to the Conveyed Interest",
+        "{name} should never float free of the county abstract. The owner file should show the exact West Virginia tract, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline. That record helps independent tax and legal advisers evaluate what was sold while the mineral closing team confirms that the signed deed, funded transaction, and county recording all describe the same interest."
+      ],
+      [
+        "Document Each Handoff Before the Mineral Closing",
+        "The owner should know which professional controls each part of the file. The qualified intermediary handles exchange funds and required notices; independent tax counsel evaluates eligibility and reporting; title counsel addresses deed, entity, probate, trust, and curative questions; the closing team confirms the tract, estate, fraction, consideration, and recording package. Written handoffs matter because a mineral abstract can remain open while federal identification and acquisition periods continue to run. A dated issue list, communication record, and owner copy reduce the chance that proceeds are received by the wrong party, a notice uses an incomplete property description, or a curative item is mistaken for an extension of a statutory deadline. The final checklist should also record the West Virginia county, instrument number, recording date, funded amount, and professional responsible for every unresolved follow-up."
+      ]
     ]
   },
   "form_fields": [
-    ["name", "text", "Name", true],
-    ["email", "email", "Email", true],
-    ["phone", "tel", "Phone", true],
-    ["message", "textarea", "Message", true]
+    [
+      "name",
+      "text",
+      "Name",
+      true
+    ],
+    [
+      "email",
+      "email",
+      "Email",
+      true
+    ],
+    [
+      "phone",
+      "tel",
+      "Phone",
+      true
+    ],
+    [
+      "message",
+      "textarea",
+      "Message",
+      true
+    ]
+  ],
+  "narrative_scrub": [
+    [
+      "\\bI['’]m\\b",
+      "Sell Mineral Rights West Virginia is"
+    ],
+    [
+      "\\bI['’]ve\\b",
+      "Sell Mineral Rights West Virginia has"
+    ],
+    [
+      "\\bI['’]ll\\b",
+      "Sell Mineral Rights West Virginia will"
+    ],
+    [
+      "\\bI['’]d\\b",
+      "Sell Mineral Rights West Virginia would"
+    ],
+    [
+      "\\bmyself\\b",
+      "directly"
+    ],
+    [
+      "\\bmy\\b",
+      "the abstract desk's"
+    ],
+    [
+      "\\bme\\b",
+      "the West Virginia abstract desk"
+    ],
+    [
+      "\\bI\\b",
+      "Sell Mineral Rights West Virginia"
+    ]
+  ],
+  "answer_scrub": [
+    [
+      "\\bI['’]m\\b",
+      "Sell Mineral Rights West Virginia is"
+    ],
+    [
+      "\\bI['’]ve\\b",
+      "Sell Mineral Rights West Virginia has"
+    ],
+    [
+      "\\bI['’]ll\\b",
+      "Sell Mineral Rights West Virginia will"
+    ],
+    [
+      "\\bI['’]d\\b",
+      "Sell Mineral Rights West Virginia would"
+    ],
+    [
+      "\\bmyself\\b",
+      "directly"
+    ],
+    [
+      "\\bmy\\b",
+      "the abstract desk's"
+    ],
+    [
+      "\\bme\\b",
+      "the West Virginia abstract desk"
+    ],
+    [
+      "\\bI\\b",
+      "Sell Mineral Rights West Virginia"
+    ]
   ]
 }

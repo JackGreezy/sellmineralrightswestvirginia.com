@@ -1,0 +1,31 @@
+{
+  "classes": {
+    "#contact-form button[type=submit]": "btn"
+  },
+  "remove": {
+    "all": [
+      "#bannerMenuList > .rr-dropdown-host",
+      "body[data-rr-page=internal] main section.full-banner-text-bg-img:not(:last-of-type) a.btn__solid--dark",
+      "main .row-fluid-wrapper.dnd-section:not(:has(img,p,h1,h2,h3,a,form,iframe,input))",
+      "body[data-rr-page=internal] section.page-title-content-block:has(h2)"
+    ],
+    "slug": []
+  },
+  "slug_order": [
+    "faq",
+    "related",
+    "cta"
+  ],
+  "slug_mounts": {
+    "faq": "main#main-content",
+    "related": "main#main-content",
+    "cta": "main#main-content"
+  },
+  "templates": {
+    "faq": "<section class=\"latest-news\"><div class=\"module-container flex\"><div class=\"latest-news__main-title\"><h2>{heading}</h2><p>{intro}</p></div><div class=\"latest-news__items-container\">{items}</div></div></section>",
+    "faq_item": "<details class=\"latest-news__item\"><summary><h3 class=\"latest-news__title\">{q}</h3></summary><div class=\"module-content-wrapper\">{a}</div></details>",
+    "related": "<section class=\"content-background-image-card\"><div class=\"module-container flex\"><div class=\"module-content-wrapper\"><h2>{heading}</h2><p>{intro}</p><a class=\"btn btn__solid--dark\" href=\"{all_href}\">{all_label}</a></div><div class=\"flex__wrap\">{items}</div></div></section>",
+    "related_item": "<a class=\"default-card-height\" href=\"{href}\"><div class=\"content-background-image-card__content\"><h3 class=\"sub-heading\">{name}</h3><p>{teaser}</p></div><span class=\"btn btn__white\">Learn more</span></a>",
+    "cta": "<section class=\"full-width-section bg-theme-color__black\"><div class=\"module-container\"><p class=\"kicker\">{kicker}</p><h2>{title}</h2><p>{intro}</p><div class=\"flex flex__wrap flex-gap-small\"><a class=\"btn btn__solid--dark\" href=\"{contact_href}\">{label}</a><a class=\"btn btn__white\" href=\"{tel_href}\">Call {phone}</a></div></div></section>"
+  }
+}
