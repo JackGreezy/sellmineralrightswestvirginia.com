@@ -114,13 +114,31 @@
       "The offer, deed, retained-interest clause, title work, settlement record, funding confirmation, and county recording should describe the same tract and fraction."
     ]
   ],
+  "taxonomy_titles": {
+    "locations": "West Virginia Mineral Rights by County and Town",
+    "situations": "Owner Situations That Change the Review",
+    "interest-types": "Interest Types on the County Record",
+    "basins": "West Virginia Shale Basins and Formations",
+    "resources": "Owner Resources and Record Guides",
+    "investing": "Investing in West Virginia Mineral Rights",
+    "exchange-1031": "1031 Exchange Guides for Mineral Owners"
+  },
+  "taxonomy_intros": {
+    "locations": "Coverage runs through Charleston and the mineral-producing counties across northern and central West Virginia, tract by recorded tract.",
+    "situations": "Each situation below starts at the same place: the county deed book, traced forward to the fraction actually in hand.",
+    "interest-types": "Minerals, royalties, overrides, and working interests carry different powers and different conveyance language, and the estate has to be named correctly before an offer means anything.",
+    "basins": "Marcellus and Utica evidence only earns a place in the file once the tract, formation, and ownership fraction are already tied to the county record.",
+    "resources": "Each guide answers one part of the same closing file: the deed, the division order, the royalty statement, or the written offer.",
+    "investing": "A mineral investment case is only as sound as the paid decimal and the county record behind it, not the shale label attached to the play.",
+    "exchange-1031": "Exchange timing runs on a federal clock, while the title work underneath it keeps its own separate, county-paced schedule."
+  },
   "slug_ui": {
     "faq_kicker": "ABSTRACT DESK CHECK",
     "faq_heading": "Resolve the Title Question Before the Conveyance Is Written",
     "faq_intro": "Each answer points back to a county instrument, severance clause, heirship record, paid line, unit record, production record, or written term that can be checked.",
     "related_kicker": "ADJOINING ABSTRACTS",
     "related_heading": "Carry the Same Tract Into the Next Review",
-    "related_intro": "Keep the county book, severance language, ownership fraction, paid decimal, and open record question from {item} visible while reviewing these {taxonomy} records.",
+    "related_intro": "Keep the same county book, severance language, ownership fraction, paid decimal, and open record question in view while moving through these related records.",
     "related_action": "Open the Complete West Virginia Record Index"
   },
   "taxonomy_enrichment": {
@@ -143,7 +161,7 @@
       ],
       [
         "Reconcile the Investment Case to the County Abstract",
-        "{name} still depends on the estate described in the recorded chain. The investment file should identify the deed book and page, severance language, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved heirship branch. That reconciliation prevents a clean-looking revenue model from assuming acreage or rights the seller cannot convey, and it gives the closing team a written list of title facts that must remain true through funding and recording."
+        "Every investment case still depends on the estate described in the recorded chain. The investment file should identify the deed book and page, severance language, acquired fraction, any depth or formation limit, present payor, suspense status, and unresolved heirship branch. That reconciliation prevents a clean-looking revenue model from assuming acreage or rights the seller cannot convey, and it gives the closing team a written list of title facts that must remain true through funding and recording."
       ],
       [
         "Test the Paid Decimal Against the Royalty History",
@@ -169,7 +187,7 @@
       ],
       [
         "Tie the Exchange File Back to the Conveyed Interest",
-        "{name} should never float free of the county abstract. The owner file should show the exact West Virginia tract, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline. That record helps independent tax and legal advisers evaluate what was sold while the mineral closing team confirms that the signed deed, funded transaction, and county recording all describe the same interest."
+        "No exchange step should float free of the county abstract. The owner file should show the exact West Virginia tract, estate type, ownership fraction, retained rights, deed form, settlement amount, and recording reference beside the intermediary timeline. That record helps independent tax and legal advisers evaluate what was sold while the mineral closing team confirms that the signed deed, funded transaction, and county recording all describe the same interest."
       ],
       [
         "Document Each Handoff Before the Mineral Closing",
